@@ -24,8 +24,7 @@ st.header('Pokemon Stats Viewer')
 
 st.subheader('View pokemon stats for each generation')
 
-gen_list_headers = [f'Generation {str(n)} Pokemons: '
-					for n in range(1, 10)]
+gen_list_headers = [f'Generation {str(n)} Pokemons: ' for n in range(1, 10)]
 
 # Load dataframes and display to app
 for i, csv in enumerate(pkmn_data_sets):
