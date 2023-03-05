@@ -1,0 +1,157 @@
+Pokedex_Number,Name,Type,Ability,Hp,Attack,Defense,Sp. Attack,Sp. Defense,Speed
+#00494,Victini,"Psychic, Fire",Victory Star,100,100,100,100,100,100
+#00495,Snivy,Grass,Overgrow Contrary,45,45,55,45,55,63
+#00496,Servine,Grass,Overgrow Contrary,60,60,75,60,75,83
+#00497,Serperior,Grass,Overgrow Contrary,75,75,95,75,95,113
+#00498,Tepig,Fire,Blaze Thick Fat,65,63,45,45,45,45
+#00499,Pignite,"Fire, Fighting",Blaze Thick Fat,90,93,55,70,55,55
+#00500,Emboar,"Fire, Fighting",Blaze Reckless,110,123,65,100,65,65
+#00501,Oshawott,Water,Torrent Shell Armor,55,55,45,63,45,45
+#00502,Dewott,Water,Torrent Shell Armor,75,75,60,83,60,60
+#00503,Samurott,Water,Torrent Shell Armor,95,100,85,108,70,70
+#00504,Patrat,Normal,Run Away Keen Eye Analytic,45,55,39,35,39,42
+#00505,Watchog,Normal,Illuminate Keen Eye Analytic,60,85,69,60,69,77
+#00506,Lillipup,Normal,Vital Spirit Pickup Run Away,45,60,45,25,45,55
+#00507,Herdier,Normal,Intimidate Sand Rush Scrappy,65,80,65,35,65,60
+#00508,Stoutland,Normal,Intimidate Sand Rush Scrappy,85,110,90,45,90,80
+#00509,Purrloin,Dark,Limber Unburden Prankster,41,50,37,50,37,66
+#00510,Liepard,Dark,Limber Unburden Prankster,64,88,50,88,50,106
+#00511,Pansage,Grass,Gluttony Overgrow,50,53,48,53,48,64
+#00512,Simisage,Grass,Gluttony Overgrow,75,98,63,98,63,101
+#00513,Pansear,Fire,Gluttony Blaze,50,53,48,53,48,64
+#00514,Simisear,Fire,Gluttony Blaze,75,98,63,98,63,101
+#00515,Panpour,Water,Gluttony Torrent,50,53,48,53,48,64
+#00516,Simipour,Water,Gluttony Torrent,75,98,63,98,63,101
+#00517,Munna,Psychic,Forewarn Synchronize Telepathy,76,25,45,67,55,24
+#00518,Musharna,Psychic,Forewarn Synchronize Telepathy,116,55,85,107,95,29
+#00519,Pidove,"Normal, Flying",Big Pecks Super Luck Rivalry,50,55,50,36,30,43
+#00520,Tranquill,"Normal, Flying",Big Pecks Super Luck Rivalry,62,77,62,50,42,65
+#00521,Unfezant,"Normal, Flying",Big Pecks Super Luck Rivalry,80,115,80,65,55,93
+#00522,Blitzle,Electric,Lightning Rod Motor Drive Sap Sipper,45,60,32,50,32,76
+#00523,Zebstrika,Electric,Lightning Rod Motor Drive Sap Sipper,75,100,63,80,63,116
+#00524,Roggenrola,Rock,Sturdy Weak Armor Sand Force,55,75,85,25,25,15
+#00525,Boldore,Rock,Sturdy Weak Armor Sand Force,70,105,105,50,40,20
+#00526,Gigalith,Rock,Sturdy Sand Stream Sand Force,85,135,130,60,80,25
+#00527,Woobat,"Psychic, Flying",Unaware Klutz Simple,65,45,43,55,43,72
+#00528,Swoobat,"Psychic, Flying",Unaware Klutz Simple,67,57,55,77,55,114
+#00529,Drilbur,Ground,Sand Rush Sand Force Mold Breaker,60,85,40,30,45,68
+#00530,Excadrill,"Ground, Steel",Sand Rush Sand Force Mold Breaker,110,135,60,50,65,88
+#00531,Audino,Normal,Healer Regenerator Klutz,103,60,86,60,86,50
+#00532,Timburr,Fighting,Guts Sheer Force Iron Fist,75,80,55,25,35,35
+#00533,Gurdurr,Fighting,Guts Sheer Force Iron Fist,85,105,85,40,50,40
+#00534,Conkeldurr,Fighting,Guts Sheer Force Iron Fist,105,140,95,55,65,45
+#00535,Tympole,Water,Swift Swim Hydration Water Absorb,50,50,40,50,40,64
+#00536,Palpitoad,"Water, Ground",Swift Swim Hydration Water Absorb,75,65,55,65,55,69
+#00537,Seismitoad,"Water, Ground",Swift Swim Poison Touch Water Absorb,105,95,75,85,75,74
+#00538,Throh,Fighting,Guts Inner Focus Mold Breaker,120,100,85,30,85,45
+#00539,Sawk,Fighting,Sturdy Inner Focus Mold Breaker,75,125,75,30,75,85
+#00540,Sewaddle,"Bug, Grass",Swarm Chlorophyll Overcoat,45,53,70,40,60,42
+#00541,Swadloon,"Bug, Grass",Leaf Guard Chlorophyll Overcoat,55,63,90,50,80,42
+#00542,Leavanny,"Bug, Grass",Swarm Chlorophyll Overcoat,75,103,80,70,80,92
+#00543,Venipede,"Bug, Poison",Poison Point Swarm Speed Boost,30,45,59,30,39,57
+#00544,Whirlipede,"Bug, Poison",Poison Point Swarm Speed Boost,40,55,99,40,79,47
+#00545,Scolipede,"Bug, Poison",Poison Point Swarm Speed Boost,60,100,89,55,69,112
+#00546,Cottonee,"Grass, Fairy",Prankster Infiltrator Chlorophyll,40,27,60,37,50,66
+#00547,Whimsicott,"Grass, Fairy",Prankster Infiltrator Chlorophyll,60,67,85,77,75,116
+#00548,Petilil,Grass,Chlorophyll Own Tempo Leaf Guard,45,35,50,70,50,30
+#00549,Lilligant,Grass,Chlorophyll Own Tempo Leaf Guard,70,60,75,110,75,90
+#00550,Basculin,Water,Reckless Adaptability Mold Breaker,70,92,65,80,55,98
+#00551,Sandile,"Ground, Dark",Intimidate Moxie Anger Point,50,72,35,35,35,65
+#00552,Krokorok,"Ground, Dark",Intimidate Moxie Anger Point,60,82,45,45,45,74
+#00553,Krookodile,"Ground, Dark",Intimidate Moxie Anger Point,95,117,80,65,70,92
+#00554,Darumaka,Fire,Hustle Inner Focus,70,90,45,15,45,50
+#00555,Darmanitan,Fire,Sheer Force Zen Mode,105,140,55,30,55,95
+#00556,Maractus,Grass,Water Absorb Chlorophyll Storm Drain,75,86,67,106,67,60
+#00557,Dwebble,"Bug, Rock",Sturdy Shell Armor Weak Armor,50,65,85,35,35,55
+#00558,Crustle,"Bug, Rock",Sturdy Shell Armor Weak Armor,70,105,125,65,75,45
+#00559,Scraggy,"Dark, Fighting",Shed Skin Moxie Intimidate,50,75,70,35,70,48
+#00560,Scrafty,"Dark, Fighting",Shed Skin Moxie Intimidate,65,90,115,45,115,58
+#00561,Sigilyph,"Psychic, Flying",Wonder Skin  Magic Guard Tinted Lens,72,58,80,103,80,97
+#00562,Yamask,Ghost,Mummy,38,30,85,55,65,30
+#00563,Cofagrigus,Ghost,Mummy,58,50,145,95,105,30
+#00564,Tirtouga,"Water, Rock",Solid Rock Sturdy Swift Swim,54,78,103,53,45,22
+#00565,Carracosta,"Water, Rock",Solid Rock Sturdy Swift Swim,74,108,133,83,65,32
+#00566,Archen,"Rock, Flying",Defeatist,55,112,45,74,45,70
+#00567,Archeops,"Rock, Flying",Defeatist,75,140,65,112,65,110
+#00568,Trubbish,Poison,Stench Sticky Hold Aftermath,50,50,62,40,62,65
+#00569,Garbodor,Poison,Stench Weak Armor Aftermath,80,95,82,60,82,75
+#00570,Zorua,Dark,Illusion,40,65,40,80,40,65
+#00571,Zoroark,Dark,Illusion,60,105,60,120,60,105
+#00572,Minccino,Normal,Cute Charm Technician Skill Link,55,50,40,40,40,75
+#00573,Cinccino,Normal,Cute Charm Technician Skill Link,75,95,60,65,60,115
+#00574,Gothita,Psychic,Frisk Competitive Shadow Tag,45,30,50,55,65,45
+#00575,Gothorita,Psychic,Frisk Competitive Shadow Tag,60,45,70,75,85,55
+#00576,Gothitelle,Psychic,Frisk Competitive Shadow Tag,70,55,95,95,110,65
+#00577,Solosis,Psychic,Overcoat Magic Guard Regenerator,45,30,40,105,50,20
+#00578,Duosion,Psychic,Overcoat Magic Guard Regenerator,65,40,50,125,60,30
+#00579,Reuniclus,Psychic,Overcoat Magic Guard Regenerator,110,65,75,125,85,30
+#00580,Ducklett,"Water, Flying",Keen Eye Big Pecks Hydration,62,44,50,44,50,55
+#00581,Swanna,"Water, Flying",Keen Eye Big Pecks Hydration,75,87,63,87,63,98
+#00582,Vanillite,Ice,Ice Body Snow Cloak Weak Armor,36,50,50,65,60,44
+#00583,Vanillish,Ice,Ice Body Snow Cloak Weak Armor,51,65,65,80,75,59
+#00584,Vanilluxe,Ice,Ice Body Snow Warning Weak Armor,71,95,85,110,95,79
+#00585,Deerling,"Normal, Grass",Chlorophyll Sap Sipper Serene Grace,60,60,50,40,50,75
+#00586,Sawsbuck,"Normal, Grass",Chlorophyll Sap Sipper Serene Grace,80,100,70,60,70,95
+#00587,Emolga,"Electric, Flying",Static Motor Drive,55,75,60,75,60,103
+#00588,Karrablast,Bug,Swarm Shed Skin No Guard,50,75,45,40,45,60
+#00589,Escavalier,"Bug, Steel",Swarm Shell Armor Overcoat,70,135,105,60,105,20
+#00590,Foongus,"Grass, Poison",Effect Spore Regenerator,69,55,45,55,55,15
+#00591,Amoonguss,"Grass, Poison",Effect Spore Regenerator,114,85,70,85,80,30
+#00592,Frillish,"Water, Ghost",Water Absorb Cursed Body Damp,55,40,50,65,85,40
+#00593,Jellicent,"Water, Ghost",Water Absorb Cursed Body Damp,100,60,70,85,105,60
+#00594,Alomomola,Water,Healer Hydration Regenerator,165,75,80,40,45,65
+#00595,Joltik,"Bug, Electric",Compoundeyes Unnerve Swarm,50,47,50,57,50,65
+#00596,Galvantula,"Bug, Electric",Compoundeyes Unnerve Swarm,70,77,60,97,60,108
+#00597,Ferroseed,"Grass, Steel",Iron Barbs,44,50,91,24,86,10
+#00598,Ferrothorn,"Grass, Steel",Iron Barbs Anticipation,74,94,131,54,116,20
+#00599,Klink,Steel,Plus Minus Clear Body,40,55,70,45,60,30
+#00600,Klang,Steel,Plus Minus Clear Body,60,80,95,70,85,50
+#00601,Klinklang,Steel,Plus Minus Clear Body,60,100,115,70,85,90
+#00602,Tynamo,Electric,Levitate,35,55,40,45,40,60
+#00603,Eelektrik,Electric,Levitate,65,85,70,75,70,40
+#00604,Eelektross,Electric,Levitate,85,115,80,105,80,50
+#00605,Elgyem,Psychic,Telepathy Synchronize Analytic,55,55,55,85,55,30
+#00606,Beheeyem,Psychic,Telepathy Synchronize Analytic,75,75,75,125,95,40
+#00607,Litwick,"Ghost, Fire",Flash Fire Flame Body Infiltrator,50,30,55,65,55,20
+#00608,Lampent,"Ghost, Fire",Flash Fire Flame Body Infiltrator,60,40,60,95,60,55
+#00609,Chandelure,"Ghost, Fire",Flash Fire Flame Body Infiltrator,60,55,90,145,90,80
+#00610,Axew,Dragon,Rivalry Mold Breaker Unnerve,46,87,60,30,40,57
+#00611,Fraxure,Dragon,Rivalry Mold Breaker Unnerve,66,117,70,40,50,67
+#00612,Haxorus,Dragon,Rivalry Mold Breaker Unnerve,76,147,90,60,70,97
+#00613,Cubchoo,Ice,Snow Cloak Slush Rush Rattled,55,70,40,60,40,40
+#00614,Beartic,Ice,Snow Cloak Slush Rush Swift Swim,95,130,80,70,80,50
+#00615,Cryogonal,Ice,Levitate,80,50,50,95,135,105
+#00616,Shelmet,Bug,Hydration Shell Armor Overcoat,50,40,85,40,65,25
+#00617,Accelgor,Bug,Hydration Sticky Hold Unburden,80,70,40,100,60,145
+#00618,Stunfisk,"Ground, Electric",Static Limber Sand Veil,109,66,84,81,99,32
+#00619,Mienfoo,Fighting,Inner Focus Regenerator Reckless,45,85,50,55,50,65
+#00620,Mienshao,Fighting,Inner Focus Regenerator Reckless,65,125,60,95,60,105
+#00621,Druddigon,Dragon,Rough Skin Sheer Force Mold Breaker,77,120,90,60,90,48
+#00622,Golett,"Ground, Ghost",Iron Fist Klutz No Guard,59,74,50,35,50,35
+#00623,Golurk,"Ground, Ghost",Iron Fist Klutz No Guard,89,124,80,55,80,55
+#00624,Pawniard,"Dark, Steel",Defiant Inner Focus Pressure,45,85,70,40,40,60
+#00625,Bisharp,"Dark, Steel",Defiant Inner Focus Pressure,65,125,100,60,70,70
+#00626,Bouffalant,Normal,Reckless Sap Sipper Soundproof,95,110,95,40,95,55
+#00627,Rufflet,"Normal, Flying",Keen Eye Sheer Force Hustle,70,83,50,37,50,60
+#00628,Braviary,"Normal, Flying",Keen Eye Sheer Force Defiant,100,123,75,57,75,80
+#00629,Vullaby,"Dark, Flying",Big Pecks Overcoat Weak Armor,70,55,75,45,65,60
+#00630,Mandibuzz,"Dark, Flying",Big Pecks Overcoat Weak Armor,110,65,105,55,95,80
+#00631,Heatmor,Fire,Gluttony Flash Fire White Smoke,85,97,66,105,66,65
+#00632,Durant,"Bug, Steel",Swarm Hustle Truant,58,109,112,48,48,109
+#00633,Deino,"Dark, Dragon",Hustle,52,65,50,45,50,38
+#00634,Zweilous,"Dark, Dragon",Hustle,72,85,70,65,70,58
+#00635,Hydreigon,"Dark, Dragon",Levitate,92,105,90,125,90,98
+#00636,Larvesta,"Bug, Fire",Flame Body Swarm,55,85,55,50,55,60
+#00637,Volcarona,"Bug, Fire",Flame Body Swarm,85,60,65,135,105,100
+#00638,Cobalion,"Steel, Fighting",Justified,91,90,129,90,72,108
+#00639,Terrakion,"Rock, Fighting",Justified,91,129,90,72,90,108
+#00640,Virizion,"Grass, Fighting",Justified,91,90,72,90,129,108
+#00641,Tornadus,Flying,Prankster Defiant,79,115,70,125,80,111
+#00642,Thundurus,"Electric, Flying",Prankster Defiant,79,115,70,125,80,111
+#00643,Reshiram,"Dragon, Fire",Turboblaze,100,120,100,150,120,90
+#00644,Zekrom,"Dragon, Electric",Teravolt,100,150,120,120,100,90
+#00645,Landorus,"Ground, Flying",Sand Force Sheer Force,89,125,90,115,80,101
+#00646,Kyurem,"Dragon, Ice",Pressure,125,130,90,130,90,95
+#00647,Keldeo,"Water, Fighting",Justified,91,72,90,129,90,108
+#00648,Meloetta,"Normal, Psychic",Serene Grace,100,77,77,128,128,90
+#00649,Genesect,"Bug, Steel",Download,71,120,95,120,95,99

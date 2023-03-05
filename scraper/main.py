@@ -5,29 +5,37 @@ from bs4 import BeautifulSoup
 import requests
 import urllib.request
 import re
-import json
-import logging
+# import json
+# import logging
 import pandas as pd
 
 
 # Serebii.net
-url_1 = 'https://www.serebii.net/scarletviolet/pokemon.shtml'
+url = 'https://www.serebii.net/scarletviolet/pokemon.shtml'
 
-# TODO: SCRAPE IMAGE OF POKEMON IN THIS URL
-url_2 = 'https://www.serebii.net/pokemon/gen9pokemon.shtml'
 
-RESPONSE = requests.get(url_2)
+url_1 = 'https://www.serebii.net/pokemon/gen1pokemon.shtml'
+url_2 = 'https://www.serebii.net/pokemon/gen2pokemon.shtml'
+url_3 = 'https://www.serebii.net/pokemon/gen3pokemon.shtml'
+url_4 = 'https://www.serebii.net/pokemon/gen4pokemon.shtml'
+url_5 = 'https://www.serebii.net/pokemon/gen5pokemon.shtml'
+url_6 = 'https://www.serebii.net/pokemon/gen6pokemon.shtml'
+url_7 = 'https://www.serebii.net/pokemon/gen7pokemon.shtml'
+url_8 = 'https://www.serebii.net/pokemon/gen8pokemon.shtml'
+url_9 = 'https://www.serebii.net/pokemon/gen9pokemon.shtml'
 
-page = urllib.request.urlopen(url_2)
+RESPONSE = requests.get(url_8)
+
+page = urllib.request.urlopen(url_8)
 soup = BeautifulSoup(page, 'html.parser')
 IMAGES_PATH = Path.cwd() / 'pkmn_images'
 
-PKMN_TABLE = soup.find('table', class_='tab')
 PKMN_DATA = soup.find_all('td', class_='fooinfo')
-
-IMG_DATA = soup.find_all('img', class_='listsprite')
+IMG_DATA = soup.find_all('td', class_='fooinfo')[1::11]
 PKMN_TYPES = soup.find_all('td', class_='fooinfo')[3::11]
 
+# print(PKMN_DATA)
+# print(IMG_DATA)
 
 # Get the types
 type_pattern = re.compile(r'(\w+)\.gif')
@@ -37,11 +45,15 @@ for line in PKMN_TYPES:
 
 
 # Get images of pokemons
-def get_img_serebii_page():
-	for i, img in enumerate(IMG_DATA):
-		img_src = img['src']
-		urllib.request.urlretrieve(f'https://serebii.net{img_src}', str(i))
-		print(f'Done downloading image from {img_src}')
+img_pattern = re.compile(r'src="([^"]+)')
+image_endpoint = re.findall(img_pattern, ''.join(map(str, IMG_DATA)))
+
+
+# Function to scrape the pokemon sprite images in Serebii.net
+def get_img_serebii_page(gen_folder) -> None:
+	for i, img in enumerate(image_endpoint, start=1):
+		urllib.request.urlretrieve(f'https://serebii.net{img}', IMAGES_PATH / gen_folder / str(i))
+		print(f'Done downloading image from https://serebii.net{img}')
 
 
 # Generate pokemon data from selector
@@ -72,8 +84,7 @@ pkmn_data: list[dict] = [
 	{
 			'Pokedex_Number': pkdx_n,
 			'Name': nm,
-			'Sprite': img,
-			'Types': ', '.join(map(lambda x: x.title(), typ)),
+			'Type': ', '.join(map(lambda x: x.title(), typ)),
 			'Ability': abty,
 			'Hp': hp,
 			'Attack': atk,
@@ -81,13 +92,37 @@ pkmn_data: list[dict] = [
 			'Sp. Attack': spatk,
 			'Sp. Defense': spdef,
 			'Speed': spd,
-	} for pkdx_n, nm, img, typ, abty, hp, atk, de, spatk, spdef, spd
-	in zip(pkdx_num, pkmn_name, pokemon_img, pkmn_types, pkmn_ability,
+	} for pkdx_n, nm, typ, abty, hp, atk, de, spatk, spdef, spd
+	in zip(pkdx_num, pkmn_name, pkmn_types, pkmn_ability,
 		hp_cols, atk_cols, def_cols, spatk_cols, spdef_cols, speed_cols,)
 ]
 
 # Logger
-print(json.dumps(pkmn_data, indent=2))
+# print(json.dumps(pkmn_data, indent=2))
 
-pkmn_dataframe = pd.DataFrame(pkmn_data)
-pkmn_dataframe.to_csv(Path.cwd().parent / 'csv' / 'pkmn_data_gen9.csv', index=False, header=True)
+
+def convert_to_csv(csv_filename, data) -> None:
+	pkmn_dataframe = pd.DataFrame(data)
+	if csv_filename.endswith('.csv'):
+		pkmn_dataframe.to_csv(Path.cwd().parent / 'csv' / csv_filename, index=False, header=True)
+	else:
+		print('Not a valid filename')
+
+
+def main():
+	while True:
+		try:
+			user_input = int(input('Type what generation [1-9]: '))
+			if (user_input < 10) and (user_input > 0):
+				convert_to_csv(f'pkmn_dataset_gen{user_input}.csv', pkmn_data)
+				get_img_serebii_page(f'gen{user_input}')
+				break
+			else:
+				print('Invalid Generation')
+		except ValueError:
+			print('Input was not a number')
+
+
+if __name__ == '__main__':
+	main()
+

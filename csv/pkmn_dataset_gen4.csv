@@ -1,0 +1,108 @@
+Pokedex_Number,Name,Type,Ability,Hp,Attack,Defense,Sp. Attack,Sp. Defense,Speed
+#00387,Turtwig,Grass,Overgrow Shell Armor,55,68,64,45,55,31
+#00388,Grotle,Grass,Overgrow Shell Armor,75,89,85,55,65,36
+#00389,Torterra,"Grass, Ground",Overgrow Shell Armor,95,109,105,75,85,56
+#00390,Chimchar,Fire,Blaze Iron Fist,44,58,44,58,44,61
+#00391,Monferno,"Fire, Fighting",Blaze Iron Fist,64,78,52,78,52,81
+#00392,Infernape,"Fire, Fighting",Blaze Iron Fist,76,104,71,104,71,108
+#00393,Piplup,Water,Torrent Defiant,53,51,53,61,56,40
+#00394,Prinplup,Water,Torrent Defiant,64,66,68,81,76,50
+#00395,Empoleon,"Water, Steel",Torrent Defiant,84,86,88,111,101,60
+#00396,Starly,"Normal, Flying",Keen Eye Reckless,40,55,30,30,30,60
+#00397,Staravia,"Normal, Flying",Intimidate Reckless,55,75,50,40,40,80
+#00398,Staraptor,"Normal, Flying",Intimidate Reckless,85,120,70,50,60,100
+#00399,Bidoof,Normal,Simple Unaware Moody,59,45,40,35,40,31
+#00400,Bibarel,"Normal, Water",Simple Unaware Moody,79,85,60,55,60,71
+#00401,Kricketot,Bug,Shed Skin Run Away,37,25,41,25,41,25
+#00402,Kricketune,Bug,Swarm Technician,77,85,51,55,51,65
+#00403,Shinx,Electric,Rivalry Intimidate Guts,45,65,34,40,34,45
+#00404,Luxio,Electric,Rivalry Intimidate Guts,60,85,49,60,49,60
+#00405,Luxray,Electric,Rivalry Intimidate Guts,80,120,79,95,79,70
+#00406,Budew,"Grass, Poison",Natural Cure Poison Point Leaf Guard,40,30,35,50,70,55
+#00407,Roserade,"Grass, Poison",Natural Cure Poison Point Technician,60,70,65,125,105,90
+#00408,Cranidos,Rock,Mold Breaker Sheer Force,67,125,40,30,30,58
+#00409,Rampardos,Rock,Mold Breaker Sheer Force,97,165,60,65,50,58
+#00410,Shieldon,"Rock, Steel",Sturdy Soundproof,30,42,118,42,88,30
+#00411,Bastiodon,"Rock, Steel",Sturdy Soundproof,60,52,168,47,138,30
+#00412,Burmy,Bug,Shed Skin Overcoat,40,29,45,29,45,36
+#00413,Wormadam,"Bug, Grass",Anticipation Overcoat,60,59,85,79,105,36
+#00414,Mothim,"Bug, Flying",Swarm Tinted Lens,70,94,50,94,50,66
+#00415,Combee,"Bug, Flying",Honey Gather Hustle,30,30,42,30,42,70
+#00416,Vespiquen,"Bug, Flying",Pressure Unnerve,70,80,102,80,102,40
+#00417,Pachirisu,Electric,Run Away Pickup Volt Absorb,60,45,70,45,90,95
+#00418,Buizel,Water,Swift Swim Water Veil,55,65,35,60,30,85
+#00419,Floatzel,Water,Swift Swim Water Veil,85,105,55,85,50,115
+#00420,Cherubi,Grass,Chlorophyll,45,35,45,62,53,35
+#00421,Cherrim,Grass,Flower Gift,70,60,70,87,78,85
+#00422,Shellos,Water,Sticky Hold Storm Drain Sand Force,76,48,48,57,62,34
+#00423,Gastrodon,"Water, Ground",Sticky Hold Storm Drain Sand Force,111,83,68,92,82,39
+#00424,Ambipom,Normal,Technician Pickup Skill Link,75,100,66,60,66,115
+#00425,Drifloon,"Ghost, Flying",Aftermath Unburden Flare Boost,90,50,34,60,44,70
+#00426,Drifblim,"Ghost, Flying",Aftermath Unburden Flare Boost,150,80,44,90,54,80
+#00427,Buneary,Normal,Run Away Klutz Limber,55,66,44,44,56,85
+#00428,Lopunny,Normal,Cute Charm Klutz Limber,65,76,84,54,96,105
+#00429,Mismagius,Ghost,Levitate,60,60,60,105,105,105
+#00430,Honchkrow,"Dark, Flying",Insomnia Super Luck Moxie,100,125,52,105,52,71
+#00431,Glameow,Normal,Limber Own Tempo Keen Eye,49,55,42,42,37,85
+#00432,Purugly,Normal,Thick Fat Own Tempo Defiant,71,82,64,64,59,112
+#00433,Chingling,Psychic,Levitate,45,30,50,65,50,45
+#00434,Stunky,"Poison, Dark",Stench Aftermath Keen Eye,63,63,47,41,41,74
+#00435,Skuntank,"Poison, Dark",Stench Aftermath Keen Eye,103,93,67,71,61,84
+#00436,Bronzor,"Steel, Psychic",Levitate Heatproof Heavy Metal,57,24,86,24,86,23
+#00437,Bronzong,"Steel, Psychic",Levitate Heatproof Heavy Metal,67,89,116,79,116,33
+#00438,Bonsly,Rock,Sturdy Rock Head Rattled,50,80,95,10,45,10
+#00439,Mime Jr.,"Psychic, Fairy",Soundproof Filter Technician,20,25,45,70,90,60
+#00440,Happiny,Normal,Natural Cure Serene Grace Friend Guard,100,5,5,15,65,30
+#00441,Chatot,"Normal, Flying",Keen Eye Tangled Feet Big Pecks,76,65,45,92,42,91
+#00442,Spiritomb,"Ghost, Dark",Pressure Infiltrator,50,92,108,92,108,35
+#00443,Gible,"Dragon, Ground",Sand Veil Rough Skin,58,70,45,40,45,42
+#00444,Gabite,"Dragon, Ground",Sand Veil Rough Skin,68,90,65,50,55,82
+#00445,Garchomp,"Dragon, Ground",Sand Veil Rough Skin,108,130,95,80,85,102
+#00446,Munchlax,Normal,Pickup Thick Fat Gluttony,135,85,40,40,85,5
+#00447,Riolu,Fighting,Steadfast Inner Focus Prankster,40,70,40,35,40,60
+#00448,Lucario,"Fighting, Steel",Steadfast Inner Focus Justified,70,110,70,115,70,90
+#00449,Hippopotas,Ground,Sand Stream Sand Force,68,72,78,38,42,32
+#00450,Hippowdon,Ground,Sand Stream Sand Force,108,112,118,68,72,47
+#00451,Skorupi,"Poison, Bug",Battle Armor Sniper Keen Eye,40,50,90,30,55,65
+#00452,Drapion,"Poison, Dark",Battle Armor Sniper Keen Eye,70,90,110,60,75,95
+#00453,Croagunk,"Poison, Fighting",Anticipation Dry Skin Poison Touch,48,61,40,61,40,50
+#00454,Toxicroak,"Poison, Fighting",Anticipation Dry Skin Poison Touch,83,106,65,86,65,85
+#00455,Carnivine,Grass,Levitate,74,100,72,90,72,46
+#00456,Finneon,Water,Swift Swim Storm Drain Water Veil,49,49,56,49,61,66
+#00457,Lumineon,Water,Swift Swim Storm Drain Water Veil,69,69,76,69,86,91
+#00458,Mantyke,"Water, Flying",Swift Swim Water Absorb Water Veil,45,20,50,60,120,50
+#00459,Snover,"Grass, Ice",Snow Warning Soundproof,60,62,50,62,60,40
+#00460,Abomasnow,"Grass, Ice",Snow Warning Soundproof,90,92,75,92,85,60
+#00461,Weavile,"Dark, Ice",Pressure Pickpocket,70,120,65,45,85,125
+#00462,Magnezone,"Electric, Steel",Magnet Pull Sturdy Analytic,70,70,115,130,90,60
+#00463,Lickilicky,Normal,Own Tempo Oblivious Cloud Nine,110,85,95,80,95,50
+#00464,Rhyperior,"Ground, Rock",Lightning Rod Solid Rock Reckless,115,140,130,55,55,40
+#00465,Tangrowth,Grass,Chlorophyll Leaf Guard Regenerator,100,100,125,110,50,50
+#00466,Electivire,Electric,Motor Drive Vital Spirit,75,123,67,95,85,95
+#00467,Magmortar,Fire,Flame Body Vital Spirit,75,95,67,125,95,83
+#00468,Togekiss,"Fairy, Flying",Hustle Serene Grace Super Luck,85,50,95,120,115,80
+#00469,Yanmega,"Bug, Flying",Speed Boost Tinted Lens Frisk,86,76,86,116,56,95
+#00470,Leafeon,Grass,Leaf Guard Chlorophyll,65,110,130,60,65,95
+#00471,Glaceon,Ice,Snow Cloak Ice Body,65,60,110,130,95,65
+#00472,Gliscor,"Ground, Flying",Hyper Cutter Sand Veil Poison Heal,75,95,125,45,75,95
+#00473,Mamoswine,"Ice, Ground",Oblivious Snow Cloak Thick Fat,110,130,80,70,60,80
+#00474,Porygon-Z,Normal,Adaptability Download Analytic,85,80,70,135,75,90
+#00475,Gallade,"Psychic, Fighting",Steadfast Justified,68,125,65,65,115,80
+#00476,Probopass,"Rock, Steel",Sturdy Magnet Pull Sand Force,60,55,145,75,150,40
+#00477,Dusknoir,Ghost,Pressure Frisk,45,100,135,65,135,45
+#00478,Froslass,"Ice, Ghost",Snow Cloak Cursed Body,70,80,70,80,70,110
+#00479,Rotom,"Electric, Ghost",Levitate,50,50,77,95,77,91
+#00480,Uxie,Psychic,Levitate,75,75,130,75,130,95
+#00481,Mesprit,Psychic,Levitate,80,105,105,105,105,80
+#00482,Azelf,Psychic,Levitate,75,125,70,125,70,115
+#00483,Dialga,"Steel, Dragon",Pressure Telepathy,100,120,120,150,100,90
+#00484,Palkia,"Water, Dragon",Pressure Telepathy,90,120,100,150,120,100
+#00485,Heatran,"Fire, Steel",Flash Fire Flame Body,91,90,106,130,106,77
+#00486,Regigigas,Normal,Slow Start,110,160,110,80,110,100
+#00487,Giratina,"Ghost, Dragon",Pressure Telepathy,150,100,120,100,120,90
+#00488,Cresselia,Psychic,Levitate,120,70,110,75,120,85
+#00489,Phione,Water,Hydration,80,80,80,80,80,80
+#00490,Manaphy,Water,Hydration,100,100,100,100,100,100
+#00491,Darkrai,Dark,Bad Dreams,70,90,90,135,90,125
+#00492,Shaymin,Grass,Natural Cure,100,100,100,100,100,100
+#00493,Arceus,Normal,Multitype,120,120,120,120,120,120

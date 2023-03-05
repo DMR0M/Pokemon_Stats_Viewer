@@ -5,7 +5,17 @@ from pathlib import Path
 PATH_TO_IMAGES = Path.cwd() / 'pkmn_images'
 
 
-for i, img in enumerate(os.listdir(PATH_TO_IMAGES), start=7):
-	src_img = os.path.join(PATH_TO_IMAGES, str(i))
-	pkmn_img = os.path.join(PATH_TO_IMAGES, str(i) + '.png')
-	os.rename(src_img, pkmn_img)
+def png_conversion(gen_folder) -> None:
+	gen_images = PATH_TO_IMAGES / gen_folder
+	for i, img in enumerate(gen_images.iterdir(), start=1):
+		src_img = os.path.join(gen_images, str(i))
+		pkmn_img = os.path.join(gen_images, str(i) + '.png')
+		os.rename(src_img, pkmn_img)
+
+
+def main():
+	png_conversion('gen8')
+
+
+if __name__ == '__main__':
+	main()

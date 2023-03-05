@@ -1,0 +1,97 @@
+Pokedex_Number,Name,Type,Ability,Hp,Attack,Defense,Sp. Attack,Sp. Defense,Speed
+#00810,Grookey,Grass,Overgrow Grassy Surge,50,65,50,40,40,65
+#00811,Thwackey,Grass,Overgrow Grassy Surge,70,85,70,55,60,80
+#00812,Rillaboom,Grass,Overgrow Grassy Surge,100,125,90,60,70,85
+#00813,Scorbunny,Fire,Blaze Libero,50,71,40,40,40,69
+#00814,Raboot,Fire,Blaze Libero,65,86,60,55,60,94
+#00815,Cinderace,Fire,Blaze Libero,80,116,75,65,75,119
+#00816,Sobble,Water,Torrent Sniper,50,40,40,70,40,70
+#00817,Drizzile,Water,Torrent Sniper,65,60,55,95,55,90
+#00818,Inteleon,Water,Torrent Sniper,70,85,65,125,65,120
+#00819,Skwovet,Normal,Cheek Pouch Gluttony,70,55,55,35,35,25
+#00820,Greedent,Normal,Cheek Pouch Gluttony,120,95,95,55,75,20
+#00821,Rookidee,Flying,Keen Eye Unnerve Big Pecks,38,47,35,33,35,57
+#00822,Corvisquire,Flying,Keen Eye Unnerve Big Pecks,68,67,55,43,55,77
+#00823,Corviknight,"Flying, Steel",Pressure Unnerve Mirror Armor,98,87,105,53,85,67
+#00824,Blipbug,Bug,Swarm Compoundeyes Telepathy,25,20,20,25,45,45
+#00825,Dottler,"Bug, Psychic",Swarm Compoundeyes Telepathy,50,35,80,50,90,30
+#00826,Orbeetle,"Bug, Psychic",Swarm Frisk Telepathy,60,45,110,80,120,90
+#00827,Nickit,Dark,Run Away Unburden Stakeout,40,28,28,47,52,50
+#00828,Thievul,Dark,Run Away Unburden Stakeout,70,58,58,87,92,90
+#00829,Gossifleur,Grass,Cotton Down Regenerator Effect Spore,40,40,60,40,60,10
+#00830,Eldegoss,Grass,Cotton Down Regenerator Effect Spore,60,50,90,80,120,60
+#00831,Wooloo,Normal,Fluffy Run Away Bulletproof,42,40,55,40,45,48
+#00832,Dubwool,Normal,Fluffy Steadfast Bulletproof,72,80,100,60,90,88
+#00833,Chewtle,Water,Strong Jaw Shell Armor Swift Swim,50,64,50,38,38,44
+#00834,Drednaw,"Water, Rock",Strong Jaw Shell Armor Swift Swim,90,115,90,48,68,74
+#00835,Yamper,Electric,Ball Fetch Rattled,59,45,50,40,50,26
+#00836,Boltund,Electric,Strong Jaw Competitive,69,90,60,90,60,121
+#00837,Rolycoly,Rock,Steam Engine Heatproof Flash Fire,30,40,50,40,50,30
+#00838,Carkol,"Rock, Fire",Steam Engine Flame Body Flash Fire,80,60,90,60,70,50
+#00839,Coalossal,"Rock, Fire",Steam Engine Flame Body Flash Fire,110,80,120,80,90,30
+#00840,Applin,"Grass, Dragon",Ripen Gluttony Bulletproof,40,40,80,40,40,20
+#00841,Flapple,"Grass, Dragon",Ripen Gluttony Hustle,70,110,80,95,60,70
+#00842,Appletun,"Grass, Dragon",Ripen Gluttony Thick Fat,110,85,80,100,80,30
+#00843,Silicobra,Ground,Sand Spit Shed Skin Sand Veil,52,57,75,35,50,46
+#00844,Sandaconda,Ground,Sand Spit Shed Skin Sand Veil,72,107,125,65,70,71
+#00845,Cramorant,"Flying, Water",Gulp Missile,70,85,55,85,95,85
+#00846,Arrokuda,Water,Swift Swim Propeller Tail,41,63,40,40,30,66
+#00847,Barraskewda,Water,Swift Swim Propeller Tail,61,123,60,60,50,136
+#00848,Toxel,"Electric, Poison",Rattled Static Klutz,40,38,35,54,35,40
+#00849,Toxtricity,"Electric, Poison",Punk Rock Plus Technician,75,98,70,114,70,75
+#00850,Sizzlipede,"Fire, Bug",Flash Fire White Smoke Flame Body,50,65,45,50,50,45
+#00851,Centiskorch,"Fire, Bug",Flash Fire White Smoke Flame Body,100,115,65,90,90,65
+#00852,Clobbopus,Fighting,Limber Technician,50,68,60,50,50,32
+#00853,Grapploct,Fighting,Limber Technician,80,118,90,70,80,42
+#00854,Sinistea,Ghost,Weak Armor Cursed Body,40,45,45,74,54,50
+#00855,Polteageist,Ghost,Weak Armor Cursed Body,60,65,65,134,114,70
+#00856,Hatenna,Psychic,Healer Anticipation Magic Bounce,42,30,45,56,53,39
+#00857,Hattrem,Psychic,Healer Anticipation Magic Bounce,57,40,65,86,73,49
+#00858,Hatterene,"Psychic, Fairy",Healer Anticipation Magic Bounce,57,90,95,136,103,29
+#00859,Impidimp,"Dark, Fairy",Prankster Frisk Pickpocket,45,45,30,55,40,50
+#00860,Morgrem,"Dark, Fairy",Prankster Frisk Pickpocket,65,60,45,75,55,70
+#00861,Grimmsnarl,"Dark, Fairy",Prankster Frisk Pickpocket,95,120,65,95,75,60
+#00862,Obstagoon,"Dark, Normal",Reckless Guts Defiant,93,90,101,60,81,95
+#00863,Perrserker,Steel,Battle Armor Tough Claws Steely Spirit,70,110,100,50,60,50
+#00864,Cursola,Ghost,Weak Armor Perish Body,60,95,50,145,130,30
+#00865,Sirfetch'd,Fighting,Steadfast Scrappy,62,135,95,68,82,65
+#00866,Mr. Rime,"Ice, Psychic",Tangled Feet Screen Cleaner Ice Body,80,85,75,110,100,70
+#00867,Runerigus,"Ground, Ghost",Wandering Spirit,58,95,145,50,105,30
+#00868,Milcery,Fairy,Sweet Veil Aroma Veil,45,40,40,50,61,34
+#00869,Alcremie,Fairy,Sweet Veil Aroma Veil,65,60,75,110,121,64
+#00870,Falinks,Fighting,Battle Armor Defiant,65,100,100,70,60,75
+#00871,Pincurchin,Electric,Lightning Rod Electric Surge,48,101,95,91,85,15
+#00872,Snom,"Ice, Bug",Shield Dust Ice Scales,30,25,35,45,30,20
+#00873,Frosmoth,"Ice, Bug",Shield Dust Ice Scales,70,65,60,125,90,65
+#00874,Stonjourner,Rock,Power Spot,100,125,135,20,20,70
+#00875,Eiscue,Ice,Ice Face,75,80,110,65,90,50
+#00876,Indeedee,"Psychic, Normal",Inner Focus Synchronize Psychic Surge,60,65,55,105,95,95
+#00877,Morpeko,"Electric, Dark",Hunger Switch,58,95,58,70,58,97
+#00878,Cufant,Steel,Sheer Force Heavy Metal,72,80,49,40,49,40
+#00879,Copperajah,Steel,Sheer Force Heavy Metal,122,130,69,80,69,30
+#00880,Dracozolt,"Electric, Dragon",Volt Absorb Hustle Sand Rush,90,100,90,80,70,75
+#00881,Arctozolt,"Electric, Ice",Volt Absorb Static Slush Rush,90,100,90,90,80,55
+#00882,Dracovish,"Water, Dragon",Water Absorb Strong Jaw Sand Rush,90,90,100,70,80,75
+#00883,Arctovish,"Water, Ice",Water Absorb Ice Body Slush Rush,90,90,100,80,90,55
+#00884,Duraludon,"Steel, Dragon",Light Metal Heavy Metal Stalwart,70,95,115,120,50,85
+#00885,Dreepy,"Dragon, Ghost",Clear Body Infiltrator Cursed Body,28,60,30,40,30,82
+#00886,Drakloak,"Dragon, Ghost",Clear Body Infiltrator Cursed Body,68,80,50,60,50,102
+#00887,Dragapult,"Dragon, Ghost",Clear Body Infiltrator Cursed Body,88,120,75,100,75,142
+#00888,Zacian,Fairy,Intrepid Sword,92,120,115,80,115,138
+#00889,Zamazenta,Fighting,Dauntless Shield,92,120,115,80,115,138
+#00890,Eternatus,"Poison, Dragon",Pressure,140,85,95,145,95,130
+#00891,Kubfu,Fighting,Inner Focus,60,90,60,53,50,72
+#00892,Urshifu,"Fighting, Dark",Unseen Fist,100,130,100,63,60,97
+#00893,Zarude,"Dark, Grass",Leaf Guard,105,120,105,70,95,105
+#00894,Regieleki,Electric,Transistor,80,100,50,100,50,200
+#00895,Regidrago,Dragon,Dragon's Maw,200,100,50,100,50,80
+#00896,Glastrier,Ice,Chilling Neigh,100,145,130,65,110,30
+#00897,Spectrier,Ghost,Grim Neigh,100,65,60,145,80,130
+#00898,Calyrex,"Psychic, Grass",Unnerve,100,80,80,80,80,80
+#00899,Wyrdeer,"Normal, Psychic",Intimidate Frisk Sap Sipper,103,105,72,105,75,65
+#00900,Kleavor,"Bug, Rock",Swarm Sheer Force Steadfast,70,135,95,45,70,85
+#00901,Ursaluna,"Ground, Normal",Guts Bulletproof Unnerve,130,140,105,45,80,50
+#00902,Basculegion,"Water, Ghost",Rattled Adaptability Mold Breaker,120,112,65,80,75,78
+#00903,Sneasler,"Fighting, Poison",Pressure Poison Touch,80,130,60,40,80,120
+#00904,Overqwil,"Dark, Poison",Poison Point Swift Swim Intimidate,85,115,95,65,65,85
+#00905,Enamorus,"Fairy, Flying",Healer Contrary,74,115,70,135,80,106
