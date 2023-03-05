@@ -119,7 +119,6 @@ def main():
 	while True:
 		try:
 			user_input = int(input('Type what generation [1-9]: '))
-
 			if (user_input < 10) and (user_input > 0):
 				convert_to_csv(f'pkmn_dataset_gen{user_input}.csv', pkmn_dict)
 				get_img_serebii_page(f'gen{user_input}')
