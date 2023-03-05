@@ -1,0 +1,112 @@
+Name,Sprite,Types,Ability,Hp,Attack,Defense,Sp. Attack,Sp. Defense,Speed
+Sprigatito,1.png,Grass,Overgrow Protean,40,61,54,45,45,65
+Floragato,2.png,Grass,Overgrow Protean,61,80,63,60,63,83
+Meowscarada,3.png,"Grass, Dark",Overgrow Protean,76,110,70,81,70,123
+Fuecoco,4.png,Fire,Blaze Unaware,67,45,59,63,40,36
+Crocalor,5.png,Fire,Blaze Unaware,81,55,78,90,58,49
+Skeledirge,6.png,"Fire, Ghost",Blaze Unaware,104,75,100,110,75,66
+Quaxly,7.png,Water,Torrent Moxie,55,65,45,50,45,50
+Quaxwell,8.png,Water,Torrent Moxie,70,85,65,65,60,65
+Quaquaval,9.png,"Water, Fighting",Torrent Moxie,85,120,80,85,75,85
+Lechonk,10.png,Normal,Aroma Veil Gluttony Thick Fat,54,45,40,35,45,35
+Oinkologne,11.png,Normal,Lingering Aroma Gluttony Thick Fat,110,100,75,59,80,65
+Tarountula,12.png,Bug,Insomnia Stakeout,35,41,45,29,40,20
+Spidops,13.png,Bug,Insomnia Stakeout,60,79,92,52,86,35
+Nymble,14.png,Bug,Swarm Tinted Lens,33,46,40,21,25,45
+Lokix,15.png,"Bug, Dark",Swarm Tinted Lens,71,102,78,52,55,92
+Pawmi,16.png,Electric,Static Natural Cure Iron Fist,45,50,20,40,25,60
+Pawmo,17.png,"Electric, Fighting",Volt Absorb Natural Cure Iron Fist,60,75,40,50,40,85
+Pawmot,18.png,"Electric, Fighting",Volt Absorb Natural Cure Iron Fist,70,115,70,70,60,105
+Tandemaus,19.png,Normal,Run Away Pickup Own Tempo,50,50,45,40,45,75
+MausholdFamily of Three,20.png,Normal,Friend Guard Cheek Pouch Technician,74,75,70,65,75,111
+MausholdFamily of Four,21.png,Normal,Friend Guard Cheek Pouch Technician,74,75,70,65,75,111
+Fidough,22.png,Fairy,Own Tempo Klutz,37,55,70,30,55,65
+Dachsbun,23.png,Fairy,Well-Baked Body Aroma Veil,57,80,115,50,80,95
+Smoliv,24.png,"Grass, Normal",Early Bird Harvest,41,35,45,58,51,30
+Dolliv,25.png,"Grass, Normal",Early Bird Harvest,52,53,60,78,78,33
+Arboliva,26.png,"Grass, Normal",Seed Sower Harvest,78,69,90,125,109,39
+Squawkabilly,27.png,"Normal, Flying",Intimidate Hustle Guts,82,96,51,45,51,92
+SquawkabillyBlue Plumage,28.png,"Normal, Flying",Intimidate Hustle Guts,82,96,51,45,51,92
+SquawkabillyWhite Plumage,29.png,"Normal, Flying",Intimidate Hustle Sheer Force,82,96,51,45,51,92
+SquawkabillyYellow Plumage,30.png,"Normal, Flying",Intimidate Hustle Sheer Force,82,96,51,45,51,92
+Nacli,31.png,Rock,Purifying Salt Sturdy Clear Body,55,55,75,35,35,25
+Naclstack,32.png,Rock,Purifying Salt Sturdy Clear Body,60,60,100,35,65,35
+Garganacl,33.png,Rock,Purifying Salt Sturdy Clear Body,100,100,130,45,90,35
+Charcadet,34.png,Fire,Flash Fire Flame Body,40,50,40,50,40,35
+Armarouge,35.png,"Fire, Psychic",Flash Fire Weak Armor,85,60,100,125,80,75
+Ceruledge,36.png,"Fire, Ghost",Flash Fire Weak Armor,75,125,80,60,100,85
+Tadbulb,37.png,Electric,Own Tempo Static Damp,61,31,41,59,35,45
+Bellibolt,38.png,Electric,Electromorphosis Static Damp,109,64,91,103,83,45
+Wattrel,39.png,"Electric, Flying",Wind Power Volt Absorb Competitive,40,40,35,55,40,70
+Kilowattrel,40.png,"Electric, Flying",Wind Power Volt Absorb Competitive,70,70,60,105,60,125
+Maschiff,41.png,Dark,Intimidate Run Away Stakeout,60,78,60,40,51,51
+Mabosstiff,42.png,Dark,Intimidate Guard Dog Stakeout,80,120,90,60,70,85
+Shroodle,43.png,"Poison, Normal",Unburden Pickpocket Prankster,40,65,35,40,35,75
+Grafaiai,44.png,"Poison, Normal",Unburden Poison Touch Prankster,63,95,65,80,72,110
+Bramblin,45.png,"Grass, Ghost",Wind Rider Infiltrator,40,65,30,45,35,60
+Brambleghast,46.png,"Grass, Ghost",Wind Rider Infiltrator,55,115,70,80,70,90
+Toedscool,47.png,"Ground, Grass",Mycelium Might,40,40,35,50,100,70
+Toedscruel,48.png,"Ground, Grass",Mycelium Might,80,70,65,80,120,100
+Klawf,49.png,Rock,Anger Shell Shell Armor Regenerator,70,100,115,35,55,75
+Capsakid,50.png,Grass,Chlorophyll Insomnia Klutz,50,62,40,62,40,50
+Scovillain,51.png,"Grass, Fire",Chlorophyll Insomnia Moody,65,108,65,108,65,75
+Rellor,52.png,Bug,Compoundeyes Shed Skin,41,50,60,31,58,30
+Rabsca,53.png,"Bug, Psychic",Synchronize Telepathy,75,50,85,115,100,45
+Flittle,54.png,Psychic,Anticipation Frisk Speed Boost,30,35,30,55,30,75
+Espathra,55.png,Psychic,Opportunist Frisk Speed Boost,95,60,60,101,60,105
+Tinkatink,56.png,"Fairy, Steel",Mold Breaker Own Tempo Pickpocket,50,45,45,35,64,58
+Tinkatuff,57.png,"Fairy, Steel",Mold Breaker Own Tempo Pickpocket,65,55,55,45,82,78
+Tinkaton,58.png,"Fairy, Steel",Mold Breaker Own Tempo Pickpocket,85,75,77,70,105,94
+Wiglett,59.png,Water,Gooey Rattled Sand Veil,10,55,25,35,25,95
+Wugtrio,60.png,Water,Gooey Rattled Sand Veil,35,100,50,50,70,120
+Bombirdier,61.png,"Flying, Dark",Big Pecks Keen Eye Rocky Payload,70,103,85,60,85,82
+Finizen,62.png,Water,Water Veil,70,45,40,45,40,75
+PalafinZero Form,63.png,Water,Zero to Hero,100,70,72,53,62,100
+PalafinHero Form,64.png,Water,Zero to Hero,100,160,97,106,87,100
+Varoom,65.png,"Steel, Poison",Overcoat Slow Start,45,70,63,30,45,47
+Revavroom,66.png,"Steel, Poison",Overcoat Filter,80,119,90,54,67,90
+Cyclizar,67.png,"Dragon, Normal",Shed Skin Regenerator,70,95,65,85,65,121
+Orthworm,68.png,Steel,Earth Eater Sand Veil,70,85,145,60,55,65
+Glimmet,69.png,"Rock, Poison",Toxic Debris Corrosion,48,35,42,105,60,60
+Glimmora,70.png,"Rock, Poison",Toxic Debris Corrosion,83,55,90,130,81,86
+Greavard,71.png,Ghost,Pickup Fluffy,50,61,60,30,55,34
+Houndstone,72.png,Ghost,Sand Rush Fluffy,72,101,100,50,97,68
+Flamigo,73.png,"Flying, Fighting",Scrappy Tangled Feet Costar,82,115,74,75,64,90
+Cetoddle,74.png,Ice,Thick Fat Snow Cloak Sheer Force,108,68,45,30,40,43
+Cetitan,75.png,Ice,Thick Fat Slush Rush Sheer Force,170,113,65,45,55,73
+Veluza,76.png,"Water, Psychic",Mold Breaker Sharpness,90,102,73,78,65,70
+Dondozo,77.png,Water,Unaware Oblivious Water Veil,150,100,115,65,65,35
+Tatsugiri,78.png,"Dragon, Water",Commander Storm Drain,68,50,60,120,95,82
+Annihilape,79.png,"Fighting, Ghost",Vital Spirit Inner Focus Defiant,110,115,80,50,90,90
+Clodsire,80.png,"Poison, Ground",Poison Point Water Absorb Unaware,130,75,60,45,100,20
+Farigiraf,81.png,"Normal, Psychic",Cud Chew Armor Tail Sap Sipper,120,90,70,110,70,60
+DudunsparceTwo-Segment Form,82.png,Normal,Serene Grace Run Away Rattled,125,100,80,85,75,55
+DudunsparceThree-Segment Form,83.png,Normal,Serene Grace Run Away Rattled,125,100,80,85,75,55
+Kingambit,84.png,"Dark, Steel",Defiant Supreme Overlord Pressure,100,135,120,60,85,50
+Great Tusk,85.png,"Ground, Fighting",Protosynthesis,115,131,131,53,53,87
+Scream Tail,86.png,"Fairy, Psychic",Protosynthesis,115,65,99,65,115,111
+Brute Bonnet,87.png,"Grass, Dark",Protosynthesis,111,127,99,79,99,55
+Flutter Mane,88.png,"Ghost, Fairy",Protosynthesis,55,55,55,135,135,135
+Slither Wing,89.png,"Bug, Fighting",Protosynthesis,85,135,79,85,105,81
+Sandy Shocks,90.png,"Electric, Ground",Protosynthesis,85,81,97,121,85,101
+Iron Treads,91.png,"Ground, Steel",Quark Drive,90,112,120,72,70,106
+Iron Bundle,92.png,"Ice, Water",Quark Drive,56,80,114,124,60,136
+Iron Hands,93.png,"Fighting, Electric",Quark Drive,154,140,108,50,68,50
+Iron Jugulis,94.png,"Dark, Flying",Quark Drive,94,80,86,122,80,108
+Iron Moth,95.png,"Fire, Poison",Quark Drive,80,70,60,140,110,110
+Iron Thorns,96.png,"Rock, Electric",Quark Drive,100,134,110,70,84,72
+Frigibax,97.png,"Dragon, Ice",Thermal Exchange Ice Body,65,75,45,35,45,55
+Arctibax,98.png,"Dragon, Ice",Thermal Exchange Ice Body,90,95,66,45,65,62
+Baxcalibur,99.png,"Dragon, Ice",Thermal Exchange Ice Body,115,145,92,75,86,87
+Gimmighoul,100.png,Ghost,Rattled,45,30,70,75,70,10
+Gholdengo,101.png,"Steel, Ghost",Good as Gold,87,60,95,133,91,84
+Wo-Chien,102.png,"Dark, Grass",Tablets of Ruin,85,85,100,95,135,70
+Chien-Pao,103.png,"Dark, Ice",Sword of Ruin,80,120,80,90,65,135
+Ting-Lu,104.png,"Dark, Ground",Vessel of Ruin,155,110,125,55,80,45
+Chi-Yu,105.png,"Dark, Fire",Beads of Ruin,55,80,80,135,120,100
+Roaring Moon,106.png,"Dragon, Dark",Protosynthesis,105,139,71,55,101,119
+Iron Valiant,107.png,"Fairy, Fighting",Quark Drive,74,130,90,120,60,116
+Koraidon,108.png,"Fighting, Dragon",Orichalcum Pulse,100,135,115,85,100,135
+Miraidon,109.png,"Electric, Dragon",Hadron Engine,100,85,100,135,115,135
+Walking Wake,110.png,"Water, Dragon",Protosynthesis,99,83,91,125,83,109
+Iron Leaves,111.png,"Grass, Psychic",Quark Drive,90,130,88,70,108,104
