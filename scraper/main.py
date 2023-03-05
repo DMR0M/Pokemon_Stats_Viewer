@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 import requests
 import urllib.request
 import re
-# import json
+import json
 # import logging
 import pandas as pd
 
@@ -80,7 +80,7 @@ spdef_cols = pokemon_list[7::9]
 speed_cols = pokemon_list[8::9]
 
 # Create dictionary
-pkmn_data: list[dict] = [
+pkmn_dict: list[dict] = [
 	{
 			'Pokedex_Number': pkdx_n,
 			'Name': nm,
@@ -109,12 +109,19 @@ def convert_to_csv(csv_filename, data) -> None:
 		print('Not a valid filename')
 
 
+def convert_to_json(file) -> None:
+	with open(Path.cwd().parent / 'json' / file, 'w', encoding='utf-8') as f:
+		json_data = json.dumps(pkmn_data, indent=2)
+		f.write(json_data)
+
+
 def main():
 	while True:
 		try:
 			user_input = int(input('Type what generation [1-9]: '))
+
 			if (user_input < 10) and (user_input > 0):
-				convert_to_csv(f'pkmn_dataset_gen{user_input}.csv', pkmn_data)
+				convert_to_csv(f'pkmn_dataset_gen{user_input}.csv', pkmn_dict)
 				get_img_serebii_page(f'gen{user_input}')
 				break
 			else:
