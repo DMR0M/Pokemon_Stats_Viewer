@@ -5,13 +5,23 @@ import template
 
 
 CSV_PATH = Path.cwd() / 'csv'
-print(CSV_PATH)
+
 # Gen 1
 Gen_1 = CSV_PATH / 'pkmn_dataset_gen1.csv'
+Gen_2 = CSV_PATH / 'pkmn_dataset_gen2.csv'
+Gen_3 = CSV_PATH / 'pkmn_dataset_gen3.csv'
 
 # List of Pokémon Data Sets
 pkmn_data_sets = CSV_PATH.iterdir()
 gen_df1 = pd.read_csv(Gen_1)
+gen_df2 = pd.read_csv(Gen_2)
+gen_df3 = pd.read_csv(Gen_3)
+
+# Description Column
+desc_columns = list(gen_df1.keys()[:5])
+
+# Stats Column
+stat_columns = list(gen_df1.keys()[5:])
 
 st.set_page_config(
 	page_title='Pokemon Stats Viewer',
@@ -19,12 +29,14 @@ st.set_page_config(
 	layout="wide",
 )
 
+template.header()
 
 st.header('Generation 1 Pokémon')
 st.markdown('***')
 col_1, col_2, col_3, col_4, col_5 = st.columns([2.5, 2.5, 2.5, 2.5, 2.5])
 
-
+# Iterate each dataframe and their values by slicing
+# to display on each column
 with col_1:
 	for i, row in gen_df1[:30].iterrows():
 		st.subheader('Pokedex Number: ')
