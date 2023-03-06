@@ -2,11 +2,13 @@
 from pathlib import Path
 import streamlit as st
 import pandas as pd
-# import plotly.express as px
-from PIL import Image
+import plotly.express as px
+# from PIL import Image
 
 
 CSV_PATH = Path.cwd() / 'csv'
+# Gen 1
+Gen_1 = CSV_PATH / 'pkmn_dataset_gen1.csv'
 
 # List of Pokemon Data Sets
 pkmn_data_sets = CSV_PATH.iterdir()
@@ -14,7 +16,8 @@ pkmn_data_sets = CSV_PATH.iterdir()
 # Web page configuration
 st.set_page_config(
 	page_title='Pokemon Stats Viewer',
-	layout="wide"
+	page_icon='static/pokeball.png',
+	layout="wide",
 )
 
 st.image('static/pokeball.png', width=60)

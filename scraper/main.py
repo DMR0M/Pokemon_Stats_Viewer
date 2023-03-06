@@ -29,6 +29,8 @@ RESPONSE = requests.get(url_8)
 page = urllib.request.urlopen(url_8)
 soup = BeautifulSoup(page, 'html.parser')
 IMAGES_PATH = Path.cwd() / 'pkmn_images'
+GEN_1_IMAGES = Path.cwd() / 'pkmn_images' / 'gen1'
+JSON_PATH = Path.cwd().parent / 'data'
 
 PKMN_DATA = soup.find_all('td', class_='fooinfo')
 IMG_DATA = soup.find_all('td', class_='fooinfo')[1::11]
@@ -84,6 +86,7 @@ pkmn_dict: list[dict] = [
 	{
 			'Pokedex_Number': pkdx_n,
 			'Name': nm,
+			# 'Image': img,
 			'Type': ', '.join(map(lambda x: x.title(), typ)),
 			'Ability': abty,
 			'Hp': hp,
@@ -98,7 +101,14 @@ pkmn_dict: list[dict] = [
 ]
 
 # Logger
-# print(json.dumps(pkmn_data, indent=2))
+print(json.dumps(pkmn_dict, indent=2))
+
+
+# Convert to data file
+def json_request(json_file: str) -> None:
+	with open(JSON_PATH / f'{json_file}.json', 'w', encoding='UTF-8') as json_f:
+		json_string = json.dumps(pkmn_dict, indent=2)
+		json_f.write(json_string)
 
 
 def convert_to_csv(csv_filename, data) -> None:
@@ -109,19 +119,15 @@ def convert_to_csv(csv_filename, data) -> None:
 		print('Not a valid filename')
 
 
-def convert_to_json(file) -> None:
-	with open(Path.cwd().parent / 'json' / file, 'w', encoding='utf-8') as f:
-		json_data = json.dumps(pkmn_data, indent=2)
-		f.write(json_data)
-
-
 def main():
 	while True:
 		try:
 			user_input = int(input('Type what generation [1-9]: '))
+			data_filename = input('Type name of data file: ')
 			if (user_input < 10) and (user_input > 0):
-				convert_to_csv(f'pkmn_dataset_gen{user_input}.csv', pkmn_dict)
-				get_img_serebii_page(f'gen{user_input}')
+				json_request(data_filename)
+				# convert_to_csv(f'pkmn_dataset_gen{user_input}.csv', pkmn_dict)
+				# get_img_serebii_page(f'gen{user_input}')
 				break
 			else:
 				print('Invalid Generation')
