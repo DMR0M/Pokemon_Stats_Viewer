@@ -24,9 +24,9 @@ url_7 = 'https://www.serebii.net/pokemon/gen7pokemon.shtml'
 url_8 = 'https://www.serebii.net/pokemon/gen8pokemon.shtml'
 url_9 = 'https://www.serebii.net/pokemon/gen9pokemon.shtml'
 
-RESPONSE = requests.get(url_8)
+RESPONSE = requests.get(url_9)
 
-page = urllib.request.urlopen(url_8)
+page = urllib.request.urlopen(url_9)
 soup = BeautifulSoup(page, 'html.parser')
 IMAGES_PATH = Path.cwd() / 'pkmn_images'
 GEN_1_IMAGES = Path.cwd() / 'pkmn_images' / 'gen1'
@@ -66,7 +66,7 @@ def pkmn_data(html) -> Generator:
 
 
 pokemon_list = list(filter(lambda x: x, [pokemon for pokemon in pkmn_data(PKMN_DATA)]))
-pokemon_img = list(map(lambda x: Path(x).name, IMAGES_PATH.iterdir()))
+pokemon_img = list(map(lambda x: Path(x).name, GEN_1_IMAGES.iterdir()))
 pokemon_img.sort(key=lambda f: int(re.sub(r'\D', '', f)))
 
 # print(*pokemon_list, sep='\n')
@@ -86,7 +86,7 @@ pkmn_dict: list[dict] = [
 	{
 			'Pokedex_Number': pkdx_n,
 			'Name': nm,
-			# 'Image': img,
+			'Image': img,
 			'Type': ', '.join(map(lambda x: x.title(), typ)),
 			'Ability': abty,
 			'Hp': hp,
@@ -95,8 +95,8 @@ pkmn_dict: list[dict] = [
 			'Sp. Attack': spatk,
 			'Sp. Defense': spdef,
 			'Speed': spd,
-	} for pkdx_n, nm, typ, abty, hp, atk, de, spatk, spdef, spd
-	in zip(pkdx_num, pkmn_name, pkmn_types, pkmn_ability,
+	} for pkdx_n, nm, img, typ, abty, hp, atk, de, spatk, spdef, spd
+	in zip(pkdx_num, pkmn_name, pokemon_img, pkmn_types, pkmn_ability,
 		hp_cols, atk_cols, def_cols, spatk_cols, spdef_cols, speed_cols,)
 ]
 
@@ -126,7 +126,7 @@ def main():
 			data_filename = input('Type name of data file: ')
 			if (user_input < 10) and (user_input > 0):
 				json_request(data_filename)
-				# convert_to_csv(f'pkmn_dataset_gen{user_input}.csv', pkmn_dict)
+				convert_to_csv(f'pkmn_dataset_gen{user_input}.csv', pkmn_dict)
 				# get_img_serebii_page(f'gen{user_input}')
 				break
 			else:

@@ -1,89 +1,89 @@
-Pokedex_Number,Name,Type,Ability,Hp,Attack,Defense,Sp. Attack,Sp. Defense,Speed
-#00722,Rowlet,"Grass, Flying",Overgrow Long Reach,68,55,55,50,50,42
-#00723,Dartrix,"Grass, Flying",Overgrow Long Reach,78,75,75,70,70,52
-#00724,Decidueye,"Grass, Ghost",Overgrow Long Reach,78,107,75,100,100,70
-#00725,Litten,Fire,Blaze Intimidate,45,65,40,60,40,70
-#00726,Torracat,Fire,Blaze Intimidate,65,85,50,80,50,90
-#00727,Incineroar,"Fire, Dark",Blaze Intimidate,95,115,90,80,90,60
-#00728,Popplio,Water,Torrent Liquid Voice,50,54,54,66,56,40
-#00729,Brionne,Water,Torrent Liquid Voice,60,69,69,91,81,50
-#00730,Primarina,"Water, Fairy",Torrent Liquid Voice,80,74,74,126,116,60
-#00731,Pikipek,"Normal, Flying",Keen Eye Skill Link Pickup,35,75,30,30,30,65
-#00732,Trumbeak,"Normal, Flying",Keen Eye Skill Link Pickup,55,85,50,40,50,75
-#00733,Toucannon,"Normal, Flying",Keen Eye Skill Link Sheer Force,80,120,75,75,75,60
-#00734,Yungoos,Normal,Stakeout Strong Jaw Adaptability,48,70,30,30,30,45
-#00735,Gumshoos,Normal,Stakeout Strong Jaw Adaptability,88,110,60,55,60,45
-#00736,Grubbin,Bug,Swarm,47,62,45,55,45,46
-#00737,Charjabug,"Bug, Electric",Battery,57,82,95,55,75,36
-#00738,Vikavolt,"Bug, Electric",Levitate,77,70,90,145,75,43
-#00739,Crabrawler,Fighting,Hyper Cutter Iron Fist Anger Point,47,82,57,42,47,63
-#00740,Crabominable,"Fighting, Ice",Hyper Cutter Iron Fist Anger Point,97,132,77,62,67,43
-#00741,Oricorio,"Fire, Flying",Dancer,75,70,70,98,70,93
-#00742,Cutiefly,"Bug, Fairy",Honey Gather Shield Dust Sweet Veil,40,45,40,55,40,84
-#00743,Ribombee,"Bug, Fairy",Honey Gather Shield Dust Sweet Veil,60,55,60,95,70,124
-#00744,Rockruff,Rock,Keen Eye Vital Spirit Steadfast,45,65,40,30,40,60
-#00745,Lycanroc,Rock,Keen Eye Sand Rush Steadfast,75,115,65,55,65,112
-#00746,Wishiwashi,Water,Schooling,45,20,20,25,25,40
-#00747,Mareanie,"Poison, Water",Merciless Limber Regenerator,50,53,62,43,52,45
-#00748,Toxapex,"Poison, Water",Merciless Limber Regenerator,50,63,152,53,142,35
-#00749,Mudbray,Ground,Own Tempo Stamina Inner Focus,70,100,70,45,55,45
-#00750,Mudsdale,Ground,Own Tempo Stamina Inner Focus,100,125,100,55,85,35
-#00751,Dewpider,"Water, Bug",Water Bubble Water Absorb,38,40,52,40,72,27
-#00752,Araquanid,"Water, Bug",Water Bubble Water Absorb,68,70,92,50,132,42
-#00753,Fomantis,Grass,Leaf Guard Contrary,40,55,35,50,35,35
-#00754,Lurantis,Grass,Leaf Guard Contrary,70,105,90,80,90,45
-#00755,Morelull,"Grass, Fairy",Illuminate Effect Spore Rain Dish,40,35,55,65,75,15
-#00756,Shiinotic,"Grass, Fairy",Illuminate Effect Spore Rain Dish,60,45,80,90,100,30
-#00757,Salandit,"Poison, Fire",Corrosion Oblivious,48,44,40,71,40,77
-#00758,Salazzle,"Poison, Fire",Corrosion Oblivious,68,64,60,111,60,117
-#00759,Stufful,"Normal, Fighting",Fluffy Klutz Cute Charm,70,75,50,45,50,50
-#00760,Bewear,"Normal, Fighting",Fluffy Klutz Unnerve,120,125,80,55,60,60
-#00761,Bounsweet,Grass,Leaf Guard Oblivious Sweet Veil,42,30,38,30,38,32
-#00762,Steenee,Grass,Leaf Guard Oblivious Sweet Veil,52,40,48,40,48,62
-#00763,Tsareena,Grass,Leaf Guard Queenly Majesty Sweet Veil,72,120,98,50,98,72
-#00764,Comfey,Fairy,Flower Veil Triage Natural Cure,51,52,90,82,110,100
-#00765,Oranguru,"Normal, Psychic",Inner Focus Telepathy Symbiosis,90,60,80,90,110,60
-#00766,Passimian,Fighting,Receiver Defiant,100,120,90,40,60,80
-#00767,Wimpod,"Bug, Water",Wimp Out,25,35,40,20,30,80
-#00768,Golisopod,"Bug, Water",Emergency Exit,75,125,140,60,90,40
-#00769,Sandygast,"Ghost, Ground",Water Compaction Sand Veil,55,55,80,70,45,15
-#00770,Palossand,"Ghost, Ground",Water Compaction Sand Veil,85,75,110,100,75,35
-#00771,Pyukumuku,Water,Innards Out Unaware,55,60,130,30,130,5
-#00772,Type: Null,Normal,Battle Armor,95,95,95,95,95,59
-#00773,Silvally,Normal,RKS System,95,95,95,95,95,95
-#00774,Minior,"Rock, Flying",Shields Down,60,60,100,60,100,60
-#00775,Komala,Normal,Comatose,65,115,65,75,95,65
-#00776,Turtonator,"Fire, Dragon",Shell Armor,60,78,135,91,85,36
-#00777,Togedemaru,"Electric, Steel",Iron Barbs Lightning Rod Sturdy,65,98,63,40,73,96
-#00778,Mimikyu,"Ghost, Fairy",Disguise,55,90,80,50,105,96
-#00779,Bruxish,"Water, Psychic",Dazzling Strong Jaw Wonder Skin,68,105,70,70,70,92
-#00780,Drampa,"Normal, Dragon",Berserk Sap Sipper Cloud Nine,78,60,85,135,91,36
-#00781,Dhelmise,"Ghost, Grass",Steelworker,70,131,100,86,90,40
-#00782,Jangmo-o,Dragon,Bulletproof Soundproof Overcoat,45,55,65,45,45,45
-#00783,Hakamo-o,"Dragon, Fighting",Bulletproof Soundproof Overcoat,55,75,90,65,70,65
-#00784,Kommo-o,"Dragon, Fighting",Bulletproof Soundproof Overcoat,75,110,125,100,105,85
-#00785,Tapu Koko,"Electric, Fairy",Electric Surge Telepathy,70,115,85,95,75,130
-#00786,Tapu Lele,"Psychic, Fairy",Psychic Surge Telepathy,70,85,75,130,115,95
-#00787,Tapu Bulu,"Grass, Fairy",Grassy Surge Telepathy,70,130,115,85,95,75
-#00788,Tapu Fini,"Water, Fairy",Misty Surge Telepathy,70,75,115,95,130,85
-#00789,Cosmog,Psychic,Unaware,43,29,31,29,31,37
-#00790,Cosmoem,Psychic,Sturdy,43,29,131,29,131,37
-#00791,Solgaleo,"Psychic, Steel",Full Metal Body,137,137,107,113,89,97
-#00792,Lunala,"Psychic, Ghost",Shadow Shield,137,113,89,137,107,97
-#00793,Nihilego,"Rock, Poison",Beast Boost,109,53,47,127,131,103
-#00794,Buzzwole,"Bug, Fighting",Beast Boost,107,139,139,53,53,79
-#00795,Pheromosa,"Bug, Fighting",Beast Boost,71,137,37,137,37,151
-#00796,Xurkitree,Electric,Beast Boost,83,89,71,173,71,83
-#00797,Celesteela,"Steel, Flying",Beast Boost,97,101,103,107,101,61
-#00798,Kartana,"Grass, Steel",Beast Boost,59,181,131,59,31,109
-#00799,Guzzlord,"Dark, Dragon",Beast Boost,223,101,53,97,53,43
-#00800,Necrozma,Psychic,Prism Armor,97,107,101,127,89,79
-#00801,Magearna,"Steel, Fairy",Soul-Heart,80,95,115,130,115,65
-#00802,Marshadow,"Fighting, Ghost",Technician,90,125,80,90,90,125
-#00803,Poipole,Poison,Beast Boost,67,73,67,73,67,73
-#00804,Naganadel,"Poison, Dragon",Beast Boost,73,73,73,127,73,121
-#00805,Stakataka,"Rock, Steel",Beast Boost,61,131,211,53,101,13
-#00806,Blacephalon,"Fire, Ghost",Beast Boost,53,127,53,151,79,107
-#00807,Zeraora,Electric,Volt Absorb,88,112,75,102,80,143
-#00808,Meltan,Steel,Magnet Pull,46,65,65,55,35,34
-#00809,Melmetal,Steel,Iron Fist,135,143,143,80,65,34
+Pokedex_Number,Name,Image,Type,Ability,Hp,Attack,Defense,Sp. Attack,Sp. Defense,Speed
+#00722,Rowlet,1.png,"Grass, Flying",Overgrow Long Reach,68,55,55,50,50,42
+#00723,Dartrix,2.png,"Grass, Flying",Overgrow Long Reach,78,75,75,70,70,52
+#00724,Decidueye,3.png,"Grass, Ghost",Overgrow Long Reach,78,107,75,100,100,70
+#00725,Litten,4.png,Fire,Blaze Intimidate,45,65,40,60,40,70
+#00726,Torracat,5.png,Fire,Blaze Intimidate,65,85,50,80,50,90
+#00727,Incineroar,6.png,"Fire, Dark",Blaze Intimidate,95,115,90,80,90,60
+#00728,Popplio,7.png,Water,Torrent Liquid Voice,50,54,54,66,56,40
+#00729,Brionne,8.png,Water,Torrent Liquid Voice,60,69,69,91,81,50
+#00730,Primarina,9.png,"Water, Fairy",Torrent Liquid Voice,80,74,74,126,116,60
+#00731,Pikipek,10.png,"Normal, Flying",Keen Eye Skill Link Pickup,35,75,30,30,30,65
+#00732,Trumbeak,11.png,"Normal, Flying",Keen Eye Skill Link Pickup,55,85,50,40,50,75
+#00733,Toucannon,12.png,"Normal, Flying",Keen Eye Skill Link Sheer Force,80,120,75,75,75,60
+#00734,Yungoos,13.png,Normal,Stakeout Strong Jaw Adaptability,48,70,30,30,30,45
+#00735,Gumshoos,14.png,Normal,Stakeout Strong Jaw Adaptability,88,110,60,55,60,45
+#00736,Grubbin,15.png,Bug,Swarm,47,62,45,55,45,46
+#00737,Charjabug,16.png,"Bug, Electric",Battery,57,82,95,55,75,36
+#00738,Vikavolt,17.png,"Bug, Electric",Levitate,77,70,90,145,75,43
+#00739,Crabrawler,18.png,Fighting,Hyper Cutter Iron Fist Anger Point,47,82,57,42,47,63
+#00740,Crabominable,19.png,"Fighting, Ice",Hyper Cutter Iron Fist Anger Point,97,132,77,62,67,43
+#00741,Oricorio,20.png,"Fire, Flying",Dancer,75,70,70,98,70,93
+#00742,Cutiefly,21.png,"Bug, Fairy",Honey Gather Shield Dust Sweet Veil,40,45,40,55,40,84
+#00743,Ribombee,22.png,"Bug, Fairy",Honey Gather Shield Dust Sweet Veil,60,55,60,95,70,124
+#00744,Rockruff,23.png,Rock,Keen Eye Vital Spirit Steadfast,45,65,40,30,40,60
+#00745,Lycanroc,24.png,Rock,Keen Eye Sand Rush Steadfast,75,115,65,55,65,112
+#00746,Wishiwashi,25.png,Water,Schooling,45,20,20,25,25,40
+#00747,Mareanie,26.png,"Poison, Water",Merciless Limber Regenerator,50,53,62,43,52,45
+#00748,Toxapex,27.png,"Poison, Water",Merciless Limber Regenerator,50,63,152,53,142,35
+#00749,Mudbray,28.png,Ground,Own Tempo Stamina Inner Focus,70,100,70,45,55,45
+#00750,Mudsdale,29.png,Ground,Own Tempo Stamina Inner Focus,100,125,100,55,85,35
+#00751,Dewpider,30.png,"Water, Bug",Water Bubble Water Absorb,38,40,52,40,72,27
+#00752,Araquanid,31.png,"Water, Bug",Water Bubble Water Absorb,68,70,92,50,132,42
+#00753,Fomantis,32.png,Grass,Leaf Guard Contrary,40,55,35,50,35,35
+#00754,Lurantis,33.png,Grass,Leaf Guard Contrary,70,105,90,80,90,45
+#00755,Morelull,34.png,"Grass, Fairy",Illuminate Effect Spore Rain Dish,40,35,55,65,75,15
+#00756,Shiinotic,35.png,"Grass, Fairy",Illuminate Effect Spore Rain Dish,60,45,80,90,100,30
+#00757,Salandit,36.png,"Poison, Fire",Corrosion Oblivious,48,44,40,71,40,77
+#00758,Salazzle,37.png,"Poison, Fire",Corrosion Oblivious,68,64,60,111,60,117
+#00759,Stufful,38.png,"Normal, Fighting",Fluffy Klutz Cute Charm,70,75,50,45,50,50
+#00760,Bewear,39.png,"Normal, Fighting",Fluffy Klutz Unnerve,120,125,80,55,60,60
+#00761,Bounsweet,40.png,Grass,Leaf Guard Oblivious Sweet Veil,42,30,38,30,38,32
+#00762,Steenee,41.png,Grass,Leaf Guard Oblivious Sweet Veil,52,40,48,40,48,62
+#00763,Tsareena,42.png,Grass,Leaf Guard Queenly Majesty Sweet Veil,72,120,98,50,98,72
+#00764,Comfey,43.png,Fairy,Flower Veil Triage Natural Cure,51,52,90,82,110,100
+#00765,Oranguru,44.png,"Normal, Psychic",Inner Focus Telepathy Symbiosis,90,60,80,90,110,60
+#00766,Passimian,45.png,Fighting,Receiver Defiant,100,120,90,40,60,80
+#00767,Wimpod,46.png,"Bug, Water",Wimp Out,25,35,40,20,30,80
+#00768,Golisopod,47.png,"Bug, Water",Emergency Exit,75,125,140,60,90,40
+#00769,Sandygast,48.png,"Ghost, Ground",Water Compaction Sand Veil,55,55,80,70,45,15
+#00770,Palossand,49.png,"Ghost, Ground",Water Compaction Sand Veil,85,75,110,100,75,35
+#00771,Pyukumuku,50.png,Water,Innards Out Unaware,55,60,130,30,130,5
+#00772,Type: Null,51.png,Normal,Battle Armor,95,95,95,95,95,59
+#00773,Silvally,52.png,Normal,RKS System,95,95,95,95,95,95
+#00774,Minior,53.png,"Rock, Flying",Shields Down,60,60,100,60,100,60
+#00775,Komala,54.png,Normal,Comatose,65,115,65,75,95,65
+#00776,Turtonator,55.png,"Fire, Dragon",Shell Armor,60,78,135,91,85,36
+#00777,Togedemaru,56.png,"Electric, Steel",Iron Barbs Lightning Rod Sturdy,65,98,63,40,73,96
+#00778,Mimikyu,57.png,"Ghost, Fairy",Disguise,55,90,80,50,105,96
+#00779,Bruxish,58.png,"Water, Psychic",Dazzling Strong Jaw Wonder Skin,68,105,70,70,70,92
+#00780,Drampa,59.png,"Normal, Dragon",Berserk Sap Sipper Cloud Nine,78,60,85,135,91,36
+#00781,Dhelmise,60.png,"Ghost, Grass",Steelworker,70,131,100,86,90,40
+#00782,Jangmo-o,61.png,Dragon,Bulletproof Soundproof Overcoat,45,55,65,45,45,45
+#00783,Hakamo-o,62.png,"Dragon, Fighting",Bulletproof Soundproof Overcoat,55,75,90,65,70,65
+#00784,Kommo-o,63.png,"Dragon, Fighting",Bulletproof Soundproof Overcoat,75,110,125,100,105,85
+#00785,Tapu Koko,64.png,"Electric, Fairy",Electric Surge Telepathy,70,115,85,95,75,130
+#00786,Tapu Lele,65.png,"Psychic, Fairy",Psychic Surge Telepathy,70,85,75,130,115,95
+#00787,Tapu Bulu,66.png,"Grass, Fairy",Grassy Surge Telepathy,70,130,115,85,95,75
+#00788,Tapu Fini,67.png,"Water, Fairy",Misty Surge Telepathy,70,75,115,95,130,85
+#00789,Cosmog,68.png,Psychic,Unaware,43,29,31,29,31,37
+#00790,Cosmoem,69.png,Psychic,Sturdy,43,29,131,29,131,37
+#00791,Solgaleo,70.png,"Psychic, Steel",Full Metal Body,137,137,107,113,89,97
+#00792,Lunala,71.png,"Psychic, Ghost",Shadow Shield,137,113,89,137,107,97
+#00793,Nihilego,72.png,"Rock, Poison",Beast Boost,109,53,47,127,131,103
+#00794,Buzzwole,73.png,"Bug, Fighting",Beast Boost,107,139,139,53,53,79
+#00795,Pheromosa,74.png,"Bug, Fighting",Beast Boost,71,137,37,137,37,151
+#00796,Xurkitree,75.png,Electric,Beast Boost,83,89,71,173,71,83
+#00797,Celesteela,76.png,"Steel, Flying",Beast Boost,97,101,103,107,101,61
+#00798,Kartana,77.png,"Grass, Steel",Beast Boost,59,181,131,59,31,109
+#00799,Guzzlord,78.png,"Dark, Dragon",Beast Boost,223,101,53,97,53,43
+#00800,Necrozma,79.png,Psychic,Prism Armor,97,107,101,127,89,79
+#00801,Magearna,80.png,"Steel, Fairy",Soul-Heart,80,95,115,130,115,65
+#00802,Marshadow,81.png,"Fighting, Ghost",Technician,90,125,80,90,90,125
+#00803,Poipole,82.png,Poison,Beast Boost,67,73,67,73,67,73
+#00804,Naganadel,83.png,"Poison, Dragon",Beast Boost,73,73,73,127,73,121
+#00805,Stakataka,84.png,"Rock, Steel",Beast Boost,61,131,211,53,101,13
+#00806,Blacephalon,85.png,"Fire, Ghost",Beast Boost,53,127,53,151,79,107
+#00807,Zeraora,86.png,Electric,Volt Absorb,88,112,75,102,80,143
+#00808,Meltan,87.png,Steel,Magnet Pull,46,65,65,55,35,34
+#00809,Melmetal,88.png,Steel,Iron Fist,135,143,143,80,65,34

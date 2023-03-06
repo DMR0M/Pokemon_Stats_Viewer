@@ -1,101 +1,101 @@
-Pokedex_Number,Name,Type,Ability,Hp,Attack,Defense,Sp. Attack,Sp. Defense,Speed
-#00152,Chikorita,Grass,Overgrow Leaf Guard,45,49,65,49,65,45
-#00153,Bayleef,Grass,Overgrow Leaf Guard,60,62,80,63,80,60
-#00154,Meganium,Grass,Overgrow Leaf Guard,80,82,100,83,100,80
-#00155,Cyndaquil,Fire,Blaze Flash Fire,39,52,43,60,50,65
-#00156,Quilava,Fire,Blaze Flash Fire,58,64,58,80,65,80
-#00157,Typhlosion,Fire,Blaze Flash Fire,78,84,78,109,85,100
-#00158,Totodile,Water,Torrent Sheer Force,50,65,64,44,48,43
-#00159,Croconaw,Water,Torrent Sheer Force,65,80,80,59,63,58
-#00160,Feraligatr,Water,Torrent Sheer Force,85,105,100,79,83,78
-#00161,Sentret,Normal,Run Away Keen Eye Frisk,35,46,34,35,45,20
-#00162,Furret,Normal,Run Away Keen Eye Frisk,85,76,64,45,55,90
-#00163,Hoothoot,"Normal, Flying",Insomnia Keen Eye Tinted Lens,60,30,30,36,56,50
-#00164,Noctowl,"Normal, Flying",Insomnia Keen Eye Tinted Lens,100,50,50,86,96,70
-#00165,Ledyba,"Bug, Flying",Swarm Early Bird Rattled,40,20,30,40,80,55
-#00166,Ledian,"Bug, Flying",Swarm Early Bird Iron Fist,55,35,50,55,110,85
-#00167,Spinarak,"Bug, Poison",Swarm Insomnia Sniper,40,60,40,40,40,30
-#00168,Ariados,"Bug, Poison",Swarm Insomnia Sniper,70,90,70,60,70,40
-#00169,Crobat,"Poison, Flying",Inner Focus Infiltrator,85,90,80,70,80,130
-#00170,Chinchou,"Water, Electric",Volt Absorb Illuminate Water Absorb,75,38,38,56,56,67
-#00171,Lanturn,"Water, Electric",Volt Absorb Illuminate Water Absorb,125,58,58,76,76,67
-#00172,Pichu,Electric,Static Lightning Rod,20,40,15,35,35,60
-#00173,Cleffa,Fairy,Cute Charm Magic Guard Friend Guard,50,25,28,45,55,15
-#00174,Igglybuff,"Normal, Fairy",Cute Charm Competitive Friend Guard,90,30,15,40,20,15
-#00175,Togepi,Fairy,Hustle Serene Grace Super Luck,35,20,65,40,65,20
-#00176,Togetic,"Fairy, Flying",Hustle Serene Grace Super Luck,55,40,85,80,105,40
-#00177,Natu,"Psychic, Flying",Synchronize Early Bird Magic Bounce,40,50,45,70,45,70
-#00178,Xatu,"Psychic, Flying",Synchronize Early Bird Magic Bounce,65,75,70,95,70,95
-#00179,Mareep,Electric,Static Plus,55,40,40,65,45,35
-#00180,Flaaffy,Electric,Static Plus,70,55,55,80,60,45
-#00181,Ampharos,Electric,Static Plus,90,75,85,115,90,55
-#00182,Bellossom,Grass,Chlorophyll Healer,75,80,95,90,100,50
-#00183,Marill,"Water, Fairy",Thick Fat Huge Power Sap Sipper,70,20,50,20,50,40
-#00184,Azumarill,"Water, Fairy",Thick Fat Huge Power Sap Sipper,100,50,80,60,80,50
-#00185,Sudowoodo,Rock,Sturdy Rock Head Rattled,70,100,115,30,65,30
-#00186,Politoed,Water,Water Absorb Damp Drizzle,90,75,75,90,100,70
-#00187,Hoppip,"Grass, Flying",Chlorophyll Leaf Guard Infiltrator,35,35,40,35,55,50
-#00188,Skiploom,"Grass, Flying",Chlorophyll Leaf Guard Infiltrator,55,45,50,45,65,80
-#00189,Jumpluff,"Grass, Flying",Chlorophyll Leaf Guard Infiltrator,75,55,70,55,95,110
-#00190,Aipom,Normal,Run Away Pickup Skill Link,55,70,55,40,55,85
-#00191,Sunkern,Grass,Chlorophyll Solar Power Early Bird,30,30,30,30,30,30
-#00192,Sunflora,Grass,Chlorophyll Solar Power Early Bird,75,75,55,105,85,30
-#00193,Yanma,"Bug, Flying",Speed Boost Compoundeyes Frisk,65,65,45,75,45,95
-#00194,Wooper,"Water, Ground",Damp Water Absorb Unaware,55,45,45,25,25,15
-#00195,Quagsire,"Water, Ground",Damp Water Absorb Unaware,95,85,85,65,65,35
-#00196,Espeon,Psychic,Synchronize Magic Bounce,65,65,60,130,95,110
-#00197,Umbreon,Dark,Synchronize Inner Focus,95,65,110,60,130,65
-#00198,Murkrow,"Dark, Flying",Insomnia Super Luck Prankster,60,85,42,85,42,91
-#00199,Slowking,"Water, Psychic",Oblivious Own Tempo Regenerator,95,75,80,100,110,30
-#00200,Misdreavus,Ghost,Levitate,60,60,60,85,85,85
-#00201,Unown,Psychic,Levitate,48,72,48,72,48,48
-#00202,Wobbuffet,Psychic,Shadow Tag Telepathy,190,33,58,33,58,33
-#00203,Girafarig,"Normal, Psychic",Inner Focus Early Bird Sap Sipper,70,80,65,90,65,85
-#00204,Pineco,Bug,Sturdy Overcoat,50,65,90,35,35,15
-#00205,Forretress,"Bug, Steel",Sturdy Overcoat,75,90,140,60,60,40
-#00206,Dunsparce,Normal,Serene Grace Run Away Rattled,100,70,70,65,65,45
-#00207,Gligar,"Ground, Flying",Hyper Cutter Sand Veil Immunity,65,75,105,35,65,85
-#00208,Steelix,"Steel, Ground",Rock Head Sturdy Sheer Force,75,85,200,55,65,30
-#00209,Snubbull,Fairy,Intimidate Run Away Rattled,60,80,50,40,40,30
-#00210,Granbull,Fairy,Intimidate Quick Feet Rattled,90,120,75,60,60,45
-#00211,Qwilfish,"Water, Poison",Poison Point Swift Swim Intimidate,65,95,85,55,55,85
-#00212,Scizor,"Bug, Steel",Swarm Technician Light Metal,70,130,100,55,80,65
-#00213,Shuckle,"Bug, Rock",Sturdy Gluttony Contrary,20,10,230,10,230,5
-#00214,Heracross,"Bug, Fighting",Swarm Guts Moxie,80,125,75,40,95,85
-#00215,Sneasel,"Dark, Ice",Inner Focus Keen Eye Pickpocket,55,95,55,35,75,115
-#00216,Teddiursa,Normal,Pickup Quick Feet Honey Gather,60,80,50,50,50,40
-#00217,Ursaring,Normal,Guts Quick Feet Unnerve,90,130,75,75,75,55
-#00218,Slugma,Fire,Magma Armor Flame Body Weak Armor,40,40,40,70,40,20
-#00219,Magcargo,"Fire, Rock",Magma Armor Flame Body Weak Armor,60,50,120,90,80,30
-#00220,Swinub,"Ice, Ground",Oblivious Snow Cloak Thick Fat,50,50,40,30,30,50
-#00221,Piloswine,"Ice, Ground",Oblivious Snow Cloak Thick Fat,100,100,80,60,60,50
-#00222,Corsola,"Water, Rock",Hustle Natural Cure Regenerator,65,55,95,65,95,35
-#00223,Remoraid,Water,Hustle Sniper Moody,35,65,35,65,35,65
-#00224,Octillery,Water,Suction Cups Sniper Moody,75,105,75,105,75,45
-#00225,Delibird,"Ice, Flying",Vital Spirit Hustle Insomnia,45,55,45,65,45,75
-#00226,Mantine,"Water, Flying",Swift Swim Water Absorb Water Veil,85,40,70,80,140,70
-#00227,Skarmory,"Steel, Flying",Keen Eye Sturdy Weak Armor,65,80,140,40,70,70
-#00228,Houndour,"Dark, Fire",Early Bird Flash Fire Unnerve,45,60,30,80,50,65
-#00229,Houndoom,"Dark, Fire",Early Bird Flash Fire Unnerve,75,90,50,110,80,95
-#00230,Kingdra,"Water, Dragon",Swift Swim Sniper Damp,75,95,95,95,95,85
-#00231,Phanpy,Ground,Pickup Sand Veil,90,60,60,40,40,40
-#00232,Donphan,Ground,Sturdy Sand Veil,90,120,120,60,60,50
-#00233,Porygon2,Normal,Trace Download Analytic,85,80,90,105,95,60
-#00234,Stantler,Normal,Intimidate Frisk Sap Sipper,73,95,62,85,65,85
-#00235,Smeargle,Normal,Own Tempo Technician Moody,55,20,35,20,45,75
-#00236,Tyrogue,Fighting,Guts Steadfast Vital Spirit,35,35,35,35,35,35
-#00237,Hitmontop,Fighting,Intimidate Technician Steadfast,50,95,95,35,110,70
-#00238,Smoochum,"Ice, Psychic",Oblivious Forewarn Hydration,45,30,15,85,65,65
-#00239,Elekid,Electric,Static Vital Spirit,45,63,37,65,55,95
-#00240,Magby,Fire,Flame Body Vital Spirit,45,75,37,70,55,83
-#00241,Miltank,Normal,Thick Fat Scrappy Sap Sipper,95,80,105,40,70,100
-#00242,Blissey,Normal,Natural Cure Serene Grace Healer,255,10,10,75,135,55
-#00243,Raikou,Electric,Pressure Inner Focus,90,85,75,115,100,115
-#00244,Entei,Fire,Pressure Inner Focus,115,115,85,90,75,100
-#00245,Suicune,Water,Pressure Inner Focus,100,75,115,90,115,85
-#00246,Larvitar,"Rock, Ground",Guts Sand Veil,50,64,50,45,50,41
-#00247,Pupitar,"Rock, Ground",Shed Skin,70,84,70,65,70,51
-#00248,Tyranitar,"Rock, Dark",Sand Stream Unnerve,100,134,110,95,100,61
-#00249,Lugia,"Psychic, Flying",Pressure Multiscale,106,90,130,90,154,110
-#00250,Ho-Oh,"Fire, Flying",Pressure Regenerator,106,130,90,110,154,90
-#00251,Celebi,"Psychic, Grass",Natural Cure,100,100,100,100,100,100
+Pokedex_Number,Name,Image,Type,Ability,Hp,Attack,Defense,Sp. Attack,Sp. Defense,Speed
+#00152,Chikorita,1.png,Grass,Overgrow Leaf Guard,45,49,65,49,65,45
+#00153,Bayleef,2.png,Grass,Overgrow Leaf Guard,60,62,80,63,80,60
+#00154,Meganium,3.png,Grass,Overgrow Leaf Guard,80,82,100,83,100,80
+#00155,Cyndaquil,4.png,Fire,Blaze Flash Fire,39,52,43,60,50,65
+#00156,Quilava,5.png,Fire,Blaze Flash Fire,58,64,58,80,65,80
+#00157,Typhlosion,6.png,Fire,Blaze Flash Fire,78,84,78,109,85,100
+#00158,Totodile,7.png,Water,Torrent Sheer Force,50,65,64,44,48,43
+#00159,Croconaw,8.png,Water,Torrent Sheer Force,65,80,80,59,63,58
+#00160,Feraligatr,9.png,Water,Torrent Sheer Force,85,105,100,79,83,78
+#00161,Sentret,10.png,Normal,Run Away Keen Eye Frisk,35,46,34,35,45,20
+#00162,Furret,11.png,Normal,Run Away Keen Eye Frisk,85,76,64,45,55,90
+#00163,Hoothoot,12.png,"Normal, Flying",Insomnia Keen Eye Tinted Lens,60,30,30,36,56,50
+#00164,Noctowl,13.png,"Normal, Flying",Insomnia Keen Eye Tinted Lens,100,50,50,86,96,70
+#00165,Ledyba,14.png,"Bug, Flying",Swarm Early Bird Rattled,40,20,30,40,80,55
+#00166,Ledian,15.png,"Bug, Flying",Swarm Early Bird Iron Fist,55,35,50,55,110,85
+#00167,Spinarak,16.png,"Bug, Poison",Swarm Insomnia Sniper,40,60,40,40,40,30
+#00168,Ariados,17.png,"Bug, Poison",Swarm Insomnia Sniper,70,90,70,60,70,40
+#00169,Crobat,18.png,"Poison, Flying",Inner Focus Infiltrator,85,90,80,70,80,130
+#00170,Chinchou,19.png,"Water, Electric",Volt Absorb Illuminate Water Absorb,75,38,38,56,56,67
+#00171,Lanturn,20.png,"Water, Electric",Volt Absorb Illuminate Water Absorb,125,58,58,76,76,67
+#00172,Pichu,21.png,Electric,Static Lightning Rod,20,40,15,35,35,60
+#00173,Cleffa,22.png,Fairy,Cute Charm Magic Guard Friend Guard,50,25,28,45,55,15
+#00174,Igglybuff,23.png,"Normal, Fairy",Cute Charm Competitive Friend Guard,90,30,15,40,20,15
+#00175,Togepi,24.png,Fairy,Hustle Serene Grace Super Luck,35,20,65,40,65,20
+#00176,Togetic,25.png,"Fairy, Flying",Hustle Serene Grace Super Luck,55,40,85,80,105,40
+#00177,Natu,26.png,"Psychic, Flying",Synchronize Early Bird Magic Bounce,40,50,45,70,45,70
+#00178,Xatu,27.png,"Psychic, Flying",Synchronize Early Bird Magic Bounce,65,75,70,95,70,95
+#00179,Mareep,28.png,Electric,Static Plus,55,40,40,65,45,35
+#00180,Flaaffy,29.png,Electric,Static Plus,70,55,55,80,60,45
+#00181,Ampharos,30.png,Electric,Static Plus,90,75,85,115,90,55
+#00182,Bellossom,31.png,Grass,Chlorophyll Healer,75,80,95,90,100,50
+#00183,Marill,32.png,"Water, Fairy",Thick Fat Huge Power Sap Sipper,70,20,50,20,50,40
+#00184,Azumarill,33.png,"Water, Fairy",Thick Fat Huge Power Sap Sipper,100,50,80,60,80,50
+#00185,Sudowoodo,34.png,Rock,Sturdy Rock Head Rattled,70,100,115,30,65,30
+#00186,Politoed,35.png,Water,Water Absorb Damp Drizzle,90,75,75,90,100,70
+#00187,Hoppip,36.png,"Grass, Flying",Chlorophyll Leaf Guard Infiltrator,35,35,40,35,55,50
+#00188,Skiploom,37.png,"Grass, Flying",Chlorophyll Leaf Guard Infiltrator,55,45,50,45,65,80
+#00189,Jumpluff,38.png,"Grass, Flying",Chlorophyll Leaf Guard Infiltrator,75,55,70,55,95,110
+#00190,Aipom,39.png,Normal,Run Away Pickup Skill Link,55,70,55,40,55,85
+#00191,Sunkern,40.png,Grass,Chlorophyll Solar Power Early Bird,30,30,30,30,30,30
+#00192,Sunflora,41.png,Grass,Chlorophyll Solar Power Early Bird,75,75,55,105,85,30
+#00193,Yanma,42.png,"Bug, Flying",Speed Boost Compoundeyes Frisk,65,65,45,75,45,95
+#00194,Wooper,43.png,"Water, Ground",Damp Water Absorb Unaware,55,45,45,25,25,15
+#00195,Quagsire,44.png,"Water, Ground",Damp Water Absorb Unaware,95,85,85,65,65,35
+#00196,Espeon,45.png,Psychic,Synchronize Magic Bounce,65,65,60,130,95,110
+#00197,Umbreon,46.png,Dark,Synchronize Inner Focus,95,65,110,60,130,65
+#00198,Murkrow,47.png,"Dark, Flying",Insomnia Super Luck Prankster,60,85,42,85,42,91
+#00199,Slowking,48.png,"Water, Psychic",Oblivious Own Tempo Regenerator,95,75,80,100,110,30
+#00200,Misdreavus,49.png,Ghost,Levitate,60,60,60,85,85,85
+#00201,Unown,50.png,Psychic,Levitate,48,72,48,72,48,48
+#00202,Wobbuffet,51.png,Psychic,Shadow Tag Telepathy,190,33,58,33,58,33
+#00203,Girafarig,52.png,"Normal, Psychic",Inner Focus Early Bird Sap Sipper,70,80,65,90,65,85
+#00204,Pineco,53.png,Bug,Sturdy Overcoat,50,65,90,35,35,15
+#00205,Forretress,54.png,"Bug, Steel",Sturdy Overcoat,75,90,140,60,60,40
+#00206,Dunsparce,55.png,Normal,Serene Grace Run Away Rattled,100,70,70,65,65,45
+#00207,Gligar,56.png,"Ground, Flying",Hyper Cutter Sand Veil Immunity,65,75,105,35,65,85
+#00208,Steelix,57.png,"Steel, Ground",Rock Head Sturdy Sheer Force,75,85,200,55,65,30
+#00209,Snubbull,58.png,Fairy,Intimidate Run Away Rattled,60,80,50,40,40,30
+#00210,Granbull,59.png,Fairy,Intimidate Quick Feet Rattled,90,120,75,60,60,45
+#00211,Qwilfish,60.png,"Water, Poison",Poison Point Swift Swim Intimidate,65,95,85,55,55,85
+#00212,Scizor,61.png,"Bug, Steel",Swarm Technician Light Metal,70,130,100,55,80,65
+#00213,Shuckle,62.png,"Bug, Rock",Sturdy Gluttony Contrary,20,10,230,10,230,5
+#00214,Heracross,63.png,"Bug, Fighting",Swarm Guts Moxie,80,125,75,40,95,85
+#00215,Sneasel,64.png,"Dark, Ice",Inner Focus Keen Eye Pickpocket,55,95,55,35,75,115
+#00216,Teddiursa,65.png,Normal,Pickup Quick Feet Honey Gather,60,80,50,50,50,40
+#00217,Ursaring,66.png,Normal,Guts Quick Feet Unnerve,90,130,75,75,75,55
+#00218,Slugma,67.png,Fire,Magma Armor Flame Body Weak Armor,40,40,40,70,40,20
+#00219,Magcargo,68.png,"Fire, Rock",Magma Armor Flame Body Weak Armor,60,50,120,90,80,30
+#00220,Swinub,69.png,"Ice, Ground",Oblivious Snow Cloak Thick Fat,50,50,40,30,30,50
+#00221,Piloswine,70.png,"Ice, Ground",Oblivious Snow Cloak Thick Fat,100,100,80,60,60,50
+#00222,Corsola,71.png,"Water, Rock",Hustle Natural Cure Regenerator,65,55,95,65,95,35
+#00223,Remoraid,72.png,Water,Hustle Sniper Moody,35,65,35,65,35,65
+#00224,Octillery,73.png,Water,Suction Cups Sniper Moody,75,105,75,105,75,45
+#00225,Delibird,74.png,"Ice, Flying",Vital Spirit Hustle Insomnia,45,55,45,65,45,75
+#00226,Mantine,75.png,"Water, Flying",Swift Swim Water Absorb Water Veil,85,40,70,80,140,70
+#00227,Skarmory,76.png,"Steel, Flying",Keen Eye Sturdy Weak Armor,65,80,140,40,70,70
+#00228,Houndour,77.png,"Dark, Fire",Early Bird Flash Fire Unnerve,45,60,30,80,50,65
+#00229,Houndoom,78.png,"Dark, Fire",Early Bird Flash Fire Unnerve,75,90,50,110,80,95
+#00230,Kingdra,79.png,"Water, Dragon",Swift Swim Sniper Damp,75,95,95,95,95,85
+#00231,Phanpy,80.png,Ground,Pickup Sand Veil,90,60,60,40,40,40
+#00232,Donphan,81.png,Ground,Sturdy Sand Veil,90,120,120,60,60,50
+#00233,Porygon2,82.png,Normal,Trace Download Analytic,85,80,90,105,95,60
+#00234,Stantler,83.png,Normal,Intimidate Frisk Sap Sipper,73,95,62,85,65,85
+#00235,Smeargle,84.png,Normal,Own Tempo Technician Moody,55,20,35,20,45,75
+#00236,Tyrogue,85.png,Fighting,Guts Steadfast Vital Spirit,35,35,35,35,35,35
+#00237,Hitmontop,86.png,Fighting,Intimidate Technician Steadfast,50,95,95,35,110,70
+#00238,Smoochum,87.png,"Ice, Psychic",Oblivious Forewarn Hydration,45,30,15,85,65,65
+#00239,Elekid,88.png,Electric,Static Vital Spirit,45,63,37,65,55,95
+#00240,Magby,89.png,Fire,Flame Body Vital Spirit,45,75,37,70,55,83
+#00241,Miltank,90.png,Normal,Thick Fat Scrappy Sap Sipper,95,80,105,40,70,100
+#00242,Blissey,91.png,Normal,Natural Cure Serene Grace Healer,255,10,10,75,135,55
+#00243,Raikou,92.png,Electric,Pressure Inner Focus,90,85,75,115,100,115
+#00244,Entei,93.png,Fire,Pressure Inner Focus,115,115,85,90,75,100
+#00245,Suicune,94.png,Water,Pressure Inner Focus,100,75,115,90,115,85
+#00246,Larvitar,95.png,"Rock, Ground",Guts Sand Veil,50,64,50,45,50,41
+#00247,Pupitar,96.png,"Rock, Ground",Shed Skin,70,84,70,65,70,51
+#00248,Tyranitar,97.png,"Rock, Dark",Sand Stream Unnerve,100,134,110,95,100,61
+#00249,Lugia,98.png,"Psychic, Flying",Pressure Multiscale,106,90,130,90,154,110
+#00250,Ho-Oh,99.png,"Fire, Flying",Pressure Regenerator,106,130,90,110,154,90
+#00251,Celebi,100.png,"Psychic, Grass",Natural Cure,100,100,100,100,100,100

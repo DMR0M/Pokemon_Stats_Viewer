@@ -1,152 +1,152 @@
-Pokedex_Number,Name,Type,Ability,Hp,Attack,Defense,Sp. Attack,Sp. Defense,Speed
-#00001,Bulbasaur,"Grass, Poison",Overgrow Chlorophyll,45,49,49,65,65,45
-#00002,Ivysaur,"Grass, Poison",Overgrow Chlorophyll,60,62,63,80,80,60
-#00003,Venusaur,"Grass, Poison",Overgrow Chlorophyll,80,82,83,100,100,80
-#00004,Charmander,Fire,Blaze Solar Power,39,52,43,60,50,65
-#00005,Charmeleon,Fire,Blaze Solar Power,58,64,58,80,65,80
-#00006,Charizard,"Fire, Flying",Blaze Solar Power,78,84,78,109,85,100
-#00007,Squirtle,Water,Torrent Rain Dish,44,48,65,50,64,43
-#00008,Wartortle,Water,Torrent Rain Dish,59,63,80,65,80,58
-#00009,Blastoise,Water,Torrent Rain Dish,79,83,100,85,105,78
-#00010,Caterpie,Bug,Shield Dust Run Away,45,30,35,20,20,45
-#00011,Metapod,Bug,Shed Skin,50,20,55,25,25,30
-#00012,Butterfree,"Bug, Flying",Compoundeyes Tinted Lens,60,45,50,90,80,70
-#00013,Weedle,"Bug, Poison",Shield Dust Run Away,40,35,30,20,20,50
-#00014,Kakuna,"Bug, Poison",Shed Skin,45,25,50,25,25,35
-#00015,Beedrill,"Bug, Poison",Swarm Sniper,65,90,40,45,80,75
-#00016,Pidgey,"Normal, Flying",Keen Eye Tangled Feet Big Pecks,40,45,40,35,35,56
-#00017,Pidgeotto,"Normal, Flying",Keen Eye Tangled Feet Big Pecks,63,60,55,50,50,71
-#00018,Pidgeot,"Normal, Flying",Keen Eye Tangled Feet Big Pecks,83,80,75,70,70,101
-#00019,Rattata,Normal,Run Away Guts Hustle,30,56,35,25,35,72
-#00020,Raticate,Normal,Run Away Guts Hustle,55,81,60,50,70,97
-#00021,Spearow,"Normal, Flying",Keen Eye Sniper,40,60,30,31,31,70
-#00022,Fearow,"Normal, Flying",Keen Eye Sniper,65,90,65,61,61,100
-#00023,Ekans,Poison,Intimidate Shed Skin Unnerve,35,60,44,40,54,55
-#00024,Arbok,Poison,Intimidate Shed Skin Unnerve,60,95,69,65,79,80
-#00025,Pikachu,Electric,Static Lightning Rod,35,55,40,50,50,90
-#00026,Raichu,Electric,Static Lightning Rod,60,90,55,90,80,110
-#00027,Sandshrew,Ground,Sand Veil Sand Rush,50,75,85,20,30,40
-#00028,Sandslash,Ground,Sand Veil Sand Rush,75,100,110,45,55,65
-#00029,Nidoran♀,Poison,Poison Point Rivalry Hustle,55,47,52,40,40,41
-#00030,Nidorina,Poison,Poison Point Rivalry Hustle,70,62,67,55,55,56
-#00031,Nidoqueen,"Poison, Ground",Poison Point Rivalry Sheer Force,90,92,87,75,85,76
-#00032,Nidoran♂,Poison,Poison Point Rivalry Hustle,46,57,40,40,40,50
-#00033,Nidorino,Poison,Poison Point Rivalry Hustle,61,72,57,55,55,65
-#00034,Nidoking,"Poison, Ground",Poison Point Rivalry Sheer Force,81,102,77,85,75,85
-#00035,Clefairy,Fairy,Cute Charm Magic Guard Friend Guard,70,45,48,60,65,35
-#00036,Clefable,Fairy,Cute Charm Magic Guard Unaware,95,70,73,95,90,60
-#00037,Vulpix,Fire,Flash Fire Drought,38,41,40,50,65,65
-#00038,Ninetales,Fire,Flash Fire Drought,73,76,75,81,100,100
-#00039,Jigglypuff,"Normal, Fairy",Cute Charm Competitive Friend Guard,115,45,20,45,25,20
-#00040,Wigglytuff,"Normal, Fairy",Cute Charm Competitive Frisk,140,70,45,85,50,45
-#00041,Zubat,"Poison, Flying",Inner Focus Infiltrator,40,45,35,30,40,55
-#00042,Golbat,"Poison, Flying",Inner Focus Infiltrator,75,80,70,65,75,90
-#00043,Oddish,"Grass, Poison",Chlorophyll Run Away,45,50,55,75,65,30
-#00044,Gloom,"Grass, Poison",Chlorophyll Stench,60,65,70,85,75,40
-#00045,Vileplume,"Grass, Poison",Chlorophyll Effect Spore,75,80,85,110,90,50
-#00046,Paras,"Bug, Grass",Effect Spore Dry Skin Damp,35,70,55,45,55,25
-#00047,Parasect,"Bug, Grass",Effect Spore Dry Skin Damp,60,95,80,60,80,30
-#00048,Venonat,"Bug, Poison",Compoundeyes Tinted Lens Run Away,60,55,50,40,55,45
-#00049,Venomoth,"Bug, Poison",Shield Dust Tinted Lens Wonder Skin,70,65,60,90,75,90
-#00050,Diglett,Ground,Sand Veil Arena Trap Sand Force,10,55,25,35,45,95
-#00051,Dugtrio,Ground,Sand Veil Arena Trap Sand Force,35,100,50,50,70,120
-#00052,Meowth,Normal,Pickup Technician Unnerve,40,45,35,40,40,90
-#00053,Persian,Normal,Limber Technician Unnerve,65,70,60,65,65,115
-#00054,Psyduck,Water,Damp Cloud Nine Swift Swim,50,52,48,65,50,55
-#00055,Golduck,Water,Damp Cloud Nine Swift Swim,80,82,78,95,80,85
-#00056,Mankey,Fighting,Vital Spirit Anger Point Defiant,40,80,35,35,45,70
-#00057,Primeape,Fighting,Vital Spirit Anger Point Defiant,65,105,60,60,70,95
-#00058,Growlithe,Fire,Intimidate Flash Fire Justified,55,70,45,70,50,60
-#00059,Arcanine,Fire,Intimidate Flash Fire Justified,90,110,80,100,80,95
-#00060,Poliwag,Water,Water Absorb Damp Swift Swim,40,50,40,40,40,90
-#00061,Poliwhirl,Water,Water Absorb Damp Swift Swim,65,65,65,50,50,90
-#00062,Poliwrath,"Water, Fighting",Water Absorb Damp Swift Swim,90,95,95,70,90,70
-#00063,Abra,Psychic,Synchronize Inner Focus Magic Guard,25,20,15,105,55,90
-#00064,Kadabra,Psychic,Synchronize Inner Focus Magic Guard,40,35,30,120,70,105
-#00065,Alakazam,Psychic,Synchronize Inner Focus Magic Guard,55,50,45,135,95,120
-#00066,Machop,Fighting,Guts No Guard Steadfast,70,80,50,35,35,35
-#00067,Machoke,Fighting,Guts No Guard Steadfast,80,100,70,50,60,45
-#00068,Machamp,Fighting,Guts No Guard Steadfast,90,130,80,65,85,55
-#00069,Bellsprout,"Grass, Poison",Chlorophyll Gluttony,50,75,35,70,30,40
-#00070,Weepinbell,"Grass, Poison",Chlorophyll Gluttony,65,90,50,85,45,55
-#00071,Victreebel,"Grass, Poison",Chlorophyll Gluttony,80,105,65,100,70,70
-#00072,Tentacool,"Water, Poison",Clear Body Liquid Ooze Rain Dish,40,40,35,50,100,70
-#00073,Tentacruel,"Water, Poison",Clear Body Liquid Ooze Rain Dish,80,70,65,80,120,100
-#00074,Geodude,"Rock, Ground",Rock Head Sturdy Sand Veil,40,80,100,30,30,20
-#00075,Graveler,"Rock, Ground",Rock Head Sturdy Sand Veil,55,95,115,45,45,35
-#00076,Golem,"Rock, Ground",Rock Head Sturdy Sand Veil,80,120,130,55,65,45
-#00077,Ponyta,Fire,Run Away Flash Fire Flame Body,50,85,55,65,65,90
-#00078,Rapidash,Fire,Run Away Flash Fire Flame Body,65,100,70,80,80,105
-#00079,Slowpoke,"Water, Psychic",Oblivious Own Tempo Regenerator,90,65,65,40,40,15
-#00080,Slowbro,"Water, Psychic",Oblivious Own Tempo Regenerator,95,75,110,100,80,30
-#00081,Magnemite,"Electric, Steel",Magnet Pull Sturdy Analytic,25,35,70,95,55,45
-#00082,Magneton,"Electric, Steel",Magnet Pull Sturdy Analytic,50,60,95,120,70,70
-#00083,Farfetch'd,"Normal, Flying",Keen Eye Inner Focus Defiant,52,90,55,58,62,60
-#00084,Doduo,"Normal, Flying",Run Away Early Bird Tangled Feet,35,85,45,35,35,75
-#00085,Dodrio,"Normal, Flying",Run Away Early Bird Tangled Feet,60,110,70,60,60,110
-#00086,Seel,Water,Thick Fat Hydration Ice Body,65,45,55,45,70,45
-#00087,Dewgong,"Water, Ice",Thick Fat Hydration Ice Body,90,70,80,70,95,70
-#00088,Grimer,Poison,Stench Sticky Hold Poison Touch,80,80,50,40,50,25
-#00089,Muk,Poison,Stench Sticky Hold Poison Touch,105,105,75,65,100,50
-#00090,Shellder,Water,Shell Armor Skill Link Overcoat,30,65,100,45,25,40
-#00091,Cloyster,"Water, Ice",Shell Armor Skill Link Overcoat,50,95,180,85,45,70
-#00092,Gastly,"Ghost, Poison",Levitate,30,35,30,100,35,80
-#00093,Haunter,"Ghost, Poison",Levitate,45,50,45,115,55,95
-#00094,Gengar,"Ghost, Poison",Cursed Body,60,65,60,130,75,110
-#00095,Onix,"Rock, Ground",Rock Head Sturdy Weak Armor,35,45,160,30,45,70
-#00096,Drowzee,Psychic,Insomnia Forewarn Inner Focus,60,48,45,43,90,42
-#00097,Hypno,Psychic,Insomnia Forewarn Inner Focus,85,73,70,73,115,67
-#00098,Krabby,Water,Hyper Cutter Shell Armor Sheer Force,30,105,90,25,25,50
-#00099,Kingler,Water,Hyper Cutter Shell Armor Sheer Force,55,130,115,50,50,75
-#00100,Voltorb,Electric,Soundproof Static Aftermath,40,30,50,55,55,100
-#00101,Electrode,Electric,Soundproof Static Aftermath,60,50,70,80,80,150
-#00102,Exeggcute,"Grass, Psychic",Chlorophyll Harvest,60,40,80,60,45,40
-#00103,Exeggutor,"Grass, Psychic",Chlorophyll Harvest,95,95,85,125,75,55
-#00104,Cubone,Ground,Rock Head Lightning Rod Battle Armor,50,50,95,40,50,35
-#00105,Marowak,Ground,Rock Head Lightning Rod Battle Armor,60,80,110,50,80,45
-#00106,Hitmonlee,Fighting,Limber Reckless Unburden,50,120,53,35,110,87
-#00107,Hitmonchan,Fighting,Keen Eye Iron Fist Inner Focus,50,105,79,35,110,76
-#00108,Lickitung,Normal,Own Tempo Oblivious Cloud Nine,90,55,75,60,75,30
-#00109,Koffing,Poison,Levitate Neutralizing Gas Stench,40,65,95,60,45,35
-#00110,Weezing,Poison,Levitate Neutralizing Gas Stench,65,90,120,85,70,60
-#00111,Rhyhorn,"Ground, Rock",Lightning Rod Rock Head Reckless,80,85,95,30,30,25
-#00112,Rhydon,"Ground, Rock",Lightning Rod Rock Head Reckless,105,130,120,45,45,40
-#00113,Chansey,Normal,Natural Cure Serene Grace Healer,250,5,5,35,105,50
-#00114,Tangela,Grass,Chlorophyll Leaf Guard Regenerator,65,55,115,100,40,60
-#00115,Kangaskhan,Normal,Early Bird Scrappy Inner Focus,105,95,80,40,80,90
-#00116,Horsea,Water,Swift Swim Sniper Damp,30,40,70,70,25,60
-#00117,Seadra,Water,Poison Point Sniper Damp,55,65,95,95,45,85
-#00118,Goldeen,Water,Swift Swim Water Veil Lightning Rod,45,67,60,35,50,63
-#00119,Seaking,Water,Swift Swim Water Veil Lightning Rod,80,92,65,65,80,68
-#00120,Staryu,Water,Illuminate Natural Cure Analytic,30,45,55,70,55,85
-#00121,Starmie,"Water, Psychic",Illuminate Natural Cure Analytic,60,75,85,100,85,115
-#00122,Mr. Mime,"Psychic, Fairy",Soundproof Filter Technician,40,45,65,100,120,90
-#00123,Scyther,"Bug, Flying",Swarm Technician Steadfast,70,110,80,55,80,105
-#00124,Jynx,"Ice, Psychic",Oblivious Forewarn Dry Skin,65,50,35,115,95,95
-#00125,Electabuzz,Electric,Static Vital Spirit,65,83,57,95,85,105
-#00126,Magmar,Fire,Flame Body Vital Spirit,65,95,57,100,85,93
-#00127,Pinsir,Bug,Hyper Cutter Mold Breaker Moxie,65,125,100,55,70,85
-#00128,Tauros,Normal,Intimidate Anger Point Sheer Force,75,100,95,40,70,110
-#00129,Magikarp,Water,Swift Swim Rattled,20,10,55,15,20,80
-#00130,Gyarados,"Water, Flying",Intimidate Moxie,95,125,79,60,100,81
-#00131,Lapras,"Water, Ice",Water Absorb Shell Armor Hydration,130,85,80,85,95,60
-#00132,Ditto,Normal,Limber Imposter,48,48,48,48,48,48
-#00133,Eevee,Normal,Run Away Adaptability Anticipation,55,55,50,45,65,55
-#00134,Vaporeon,Water,Water Absorb Hydration,130,65,60,110,95,65
-#00135,Jolteon,Electric,Volt Absorb Quick Feet,65,65,60,110,95,130
-#00136,Flareon,Fire,Flash Fire Guts,65,130,60,95,110,65
-#00137,Porygon,Normal,Trace Download Analytic,65,60,70,85,75,40
-#00138,Omanyte,"Rock, Water",Swift Swim Shell Armor Weak Armor,35,40,100,90,55,35
-#00139,Omastar,"Rock, Water",Swift Swim Shell Armor Weak Armor,70,60,125,115,70,55
-#00140,Kabuto,"Rock, Water",Swift Swim Battle Armor Weak Armor,30,80,90,55,45,55
-#00141,Kabutops,"Rock, Water",Swift Swim Battle Armor Weak Armor,60,115,105,65,70,80
-#00142,Aerodactyl,"Rock, Flying",Rock Head Pressure Unnerve,80,105,65,60,75,130
-#00143,Snorlax,Normal,Immunity Thick Fat Gluttony,160,110,65,65,110,30
-#00144,Articuno,"Ice, Flying",Pressure Snow Cloak,90,85,100,95,125,85
-#00145,Zapdos,"Electric, Flying",Pressure Static,90,90,85,125,90,100
-#00146,Moltres,"Fire, Flying",Pressure Flame Body,90,100,90,125,85,90
-#00147,Dratini,Dragon,Shed Skin Marvel Scale,41,64,45,50,50,50
-#00148,Dragonair,Dragon,Shed Skin Marvel Scale,61,84,65,70,70,70
-#00149,Dragonite,"Dragon, Flying",Inner Focus Multiscale,91,134,95,100,100,80
-#00150,Mewtwo,Psychic,Pressure Unnerve,106,110,90,154,90,130
-#00151,Mew,Psychic,Synchronize,100,100,100,100,100,100
+Pokedex_Number,Name,Image,Type,Ability,Hp,Attack,Defense,Sp. Attack,Sp. Defense,Speed
+#00001,Bulbasaur,1.png,"Grass, Poison",Overgrow Chlorophyll,45,49,49,65,65,45
+#00002,Ivysaur,2.png,"Grass, Poison",Overgrow Chlorophyll,60,62,63,80,80,60
+#00003,Venusaur,3.png,"Grass, Poison",Overgrow Chlorophyll,80,82,83,100,100,80
+#00004,Charmander,4.png,Fire,Blaze Solar Power,39,52,43,60,50,65
+#00005,Charmeleon,5.png,Fire,Blaze Solar Power,58,64,58,80,65,80
+#00006,Charizard,6.png,"Fire, Flying",Blaze Solar Power,78,84,78,109,85,100
+#00007,Squirtle,7.png,Water,Torrent Rain Dish,44,48,65,50,64,43
+#00008,Wartortle,8.png,Water,Torrent Rain Dish,59,63,80,65,80,58
+#00009,Blastoise,9.png,Water,Torrent Rain Dish,79,83,100,85,105,78
+#00010,Caterpie,10.png,Bug,Shield Dust Run Away,45,30,35,20,20,45
+#00011,Metapod,11.png,Bug,Shed Skin,50,20,55,25,25,30
+#00012,Butterfree,12.png,"Bug, Flying",Compoundeyes Tinted Lens,60,45,50,90,80,70
+#00013,Weedle,13.png,"Bug, Poison",Shield Dust Run Away,40,35,30,20,20,50
+#00014,Kakuna,14.png,"Bug, Poison",Shed Skin,45,25,50,25,25,35
+#00015,Beedrill,15.png,"Bug, Poison",Swarm Sniper,65,90,40,45,80,75
+#00016,Pidgey,16.png,"Normal, Flying",Keen Eye Tangled Feet Big Pecks,40,45,40,35,35,56
+#00017,Pidgeotto,17.png,"Normal, Flying",Keen Eye Tangled Feet Big Pecks,63,60,55,50,50,71
+#00018,Pidgeot,18.png,"Normal, Flying",Keen Eye Tangled Feet Big Pecks,83,80,75,70,70,101
+#00019,Rattata,19.png,Normal,Run Away Guts Hustle,30,56,35,25,35,72
+#00020,Raticate,20.png,Normal,Run Away Guts Hustle,55,81,60,50,70,97
+#00021,Spearow,21.png,"Normal, Flying",Keen Eye Sniper,40,60,30,31,31,70
+#00022,Fearow,22.png,"Normal, Flying",Keen Eye Sniper,65,90,65,61,61,100
+#00023,Ekans,23.png,Poison,Intimidate Shed Skin Unnerve,35,60,44,40,54,55
+#00024,Arbok,24.png,Poison,Intimidate Shed Skin Unnerve,60,95,69,65,79,80
+#00025,Pikachu,25.png,Electric,Static Lightning Rod,35,55,40,50,50,90
+#00026,Raichu,26.png,Electric,Static Lightning Rod,60,90,55,90,80,110
+#00027,Sandshrew,27.png,Ground,Sand Veil Sand Rush,50,75,85,20,30,40
+#00028,Sandslash,28.png,Ground,Sand Veil Sand Rush,75,100,110,45,55,65
+#00029,Nidoran♀,29.png,Poison,Poison Point Rivalry Hustle,55,47,52,40,40,41
+#00030,Nidorina,30.png,Poison,Poison Point Rivalry Hustle,70,62,67,55,55,56
+#00031,Nidoqueen,31.png,"Poison, Ground",Poison Point Rivalry Sheer Force,90,92,87,75,85,76
+#00032,Nidoran♂,32.png,Poison,Poison Point Rivalry Hustle,46,57,40,40,40,50
+#00033,Nidorino,33.png,Poison,Poison Point Rivalry Hustle,61,72,57,55,55,65
+#00034,Nidoking,34.png,"Poison, Ground",Poison Point Rivalry Sheer Force,81,102,77,85,75,85
+#00035,Clefairy,35.png,Fairy,Cute Charm Magic Guard Friend Guard,70,45,48,60,65,35
+#00036,Clefable,36.png,Fairy,Cute Charm Magic Guard Unaware,95,70,73,95,90,60
+#00037,Vulpix,37.png,Fire,Flash Fire Drought,38,41,40,50,65,65
+#00038,Ninetales,38.png,Fire,Flash Fire Drought,73,76,75,81,100,100
+#00039,Jigglypuff,39.png,"Normal, Fairy",Cute Charm Competitive Friend Guard,115,45,20,45,25,20
+#00040,Wigglytuff,40.png,"Normal, Fairy",Cute Charm Competitive Frisk,140,70,45,85,50,45
+#00041,Zubat,41.png,"Poison, Flying",Inner Focus Infiltrator,40,45,35,30,40,55
+#00042,Golbat,42.png,"Poison, Flying",Inner Focus Infiltrator,75,80,70,65,75,90
+#00043,Oddish,43.png,"Grass, Poison",Chlorophyll Run Away,45,50,55,75,65,30
+#00044,Gloom,44.png,"Grass, Poison",Chlorophyll Stench,60,65,70,85,75,40
+#00045,Vileplume,45.png,"Grass, Poison",Chlorophyll Effect Spore,75,80,85,110,90,50
+#00046,Paras,46.png,"Bug, Grass",Effect Spore Dry Skin Damp,35,70,55,45,55,25
+#00047,Parasect,47.png,"Bug, Grass",Effect Spore Dry Skin Damp,60,95,80,60,80,30
+#00048,Venonat,48.png,"Bug, Poison",Compoundeyes Tinted Lens Run Away,60,55,50,40,55,45
+#00049,Venomoth,49.png,"Bug, Poison",Shield Dust Tinted Lens Wonder Skin,70,65,60,90,75,90
+#00050,Diglett,50.png,Ground,Sand Veil Arena Trap Sand Force,10,55,25,35,45,95
+#00051,Dugtrio,51.png,Ground,Sand Veil Arena Trap Sand Force,35,100,50,50,70,120
+#00052,Meowth,52.png,Normal,Pickup Technician Unnerve,40,45,35,40,40,90
+#00053,Persian,53.png,Normal,Limber Technician Unnerve,65,70,60,65,65,115
+#00054,Psyduck,54.png,Water,Damp Cloud Nine Swift Swim,50,52,48,65,50,55
+#00055,Golduck,55.png,Water,Damp Cloud Nine Swift Swim,80,82,78,95,80,85
+#00056,Mankey,56.png,Fighting,Vital Spirit Anger Point Defiant,40,80,35,35,45,70
+#00057,Primeape,57.png,Fighting,Vital Spirit Anger Point Defiant,65,105,60,60,70,95
+#00058,Growlithe,58.png,Fire,Intimidate Flash Fire Justified,55,70,45,70,50,60
+#00059,Arcanine,59.png,Fire,Intimidate Flash Fire Justified,90,110,80,100,80,95
+#00060,Poliwag,60.png,Water,Water Absorb Damp Swift Swim,40,50,40,40,40,90
+#00061,Poliwhirl,61.png,Water,Water Absorb Damp Swift Swim,65,65,65,50,50,90
+#00062,Poliwrath,62.png,"Water, Fighting",Water Absorb Damp Swift Swim,90,95,95,70,90,70
+#00063,Abra,63.png,Psychic,Synchronize Inner Focus Magic Guard,25,20,15,105,55,90
+#00064,Kadabra,64.png,Psychic,Synchronize Inner Focus Magic Guard,40,35,30,120,70,105
+#00065,Alakazam,65.png,Psychic,Synchronize Inner Focus Magic Guard,55,50,45,135,95,120
+#00066,Machop,66.png,Fighting,Guts No Guard Steadfast,70,80,50,35,35,35
+#00067,Machoke,67.png,Fighting,Guts No Guard Steadfast,80,100,70,50,60,45
+#00068,Machamp,68.png,Fighting,Guts No Guard Steadfast,90,130,80,65,85,55
+#00069,Bellsprout,69.png,"Grass, Poison",Chlorophyll Gluttony,50,75,35,70,30,40
+#00070,Weepinbell,70.png,"Grass, Poison",Chlorophyll Gluttony,65,90,50,85,45,55
+#00071,Victreebel,71.png,"Grass, Poison",Chlorophyll Gluttony,80,105,65,100,70,70
+#00072,Tentacool,72.png,"Water, Poison",Clear Body Liquid Ooze Rain Dish,40,40,35,50,100,70
+#00073,Tentacruel,73.png,"Water, Poison",Clear Body Liquid Ooze Rain Dish,80,70,65,80,120,100
+#00074,Geodude,74.png,"Rock, Ground",Rock Head Sturdy Sand Veil,40,80,100,30,30,20
+#00075,Graveler,75.png,"Rock, Ground",Rock Head Sturdy Sand Veil,55,95,115,45,45,35
+#00076,Golem,76.png,"Rock, Ground",Rock Head Sturdy Sand Veil,80,120,130,55,65,45
+#00077,Ponyta,77.png,Fire,Run Away Flash Fire Flame Body,50,85,55,65,65,90
+#00078,Rapidash,78.png,Fire,Run Away Flash Fire Flame Body,65,100,70,80,80,105
+#00079,Slowpoke,79.png,"Water, Psychic",Oblivious Own Tempo Regenerator,90,65,65,40,40,15
+#00080,Slowbro,80.png,"Water, Psychic",Oblivious Own Tempo Regenerator,95,75,110,100,80,30
+#00081,Magnemite,81.png,"Electric, Steel",Magnet Pull Sturdy Analytic,25,35,70,95,55,45
+#00082,Magneton,82.png,"Electric, Steel",Magnet Pull Sturdy Analytic,50,60,95,120,70,70
+#00083,Farfetch'd,83.png,"Normal, Flying",Keen Eye Inner Focus Defiant,52,90,55,58,62,60
+#00084,Doduo,84.png,"Normal, Flying",Run Away Early Bird Tangled Feet,35,85,45,35,35,75
+#00085,Dodrio,85.png,"Normal, Flying",Run Away Early Bird Tangled Feet,60,110,70,60,60,110
+#00086,Seel,86.png,Water,Thick Fat Hydration Ice Body,65,45,55,45,70,45
+#00087,Dewgong,87.png,"Water, Ice",Thick Fat Hydration Ice Body,90,70,80,70,95,70
+#00088,Grimer,88.png,Poison,Stench Sticky Hold Poison Touch,80,80,50,40,50,25
+#00089,Muk,89.png,Poison,Stench Sticky Hold Poison Touch,105,105,75,65,100,50
+#00090,Shellder,90.png,Water,Shell Armor Skill Link Overcoat,30,65,100,45,25,40
+#00091,Cloyster,91.png,"Water, Ice",Shell Armor Skill Link Overcoat,50,95,180,85,45,70
+#00092,Gastly,92.png,"Ghost, Poison",Levitate,30,35,30,100,35,80
+#00093,Haunter,93.png,"Ghost, Poison",Levitate,45,50,45,115,55,95
+#00094,Gengar,94.png,"Ghost, Poison",Cursed Body,60,65,60,130,75,110
+#00095,Onix,95.png,"Rock, Ground",Rock Head Sturdy Weak Armor,35,45,160,30,45,70
+#00096,Drowzee,96.png,Psychic,Insomnia Forewarn Inner Focus,60,48,45,43,90,42
+#00097,Hypno,97.png,Psychic,Insomnia Forewarn Inner Focus,85,73,70,73,115,67
+#00098,Krabby,98.png,Water,Hyper Cutter Shell Armor Sheer Force,30,105,90,25,25,50
+#00099,Kingler,99.png,Water,Hyper Cutter Shell Armor Sheer Force,55,130,115,50,50,75
+#00100,Voltorb,100.png,Electric,Soundproof Static Aftermath,40,30,50,55,55,100
+#00101,Electrode,101.png,Electric,Soundproof Static Aftermath,60,50,70,80,80,150
+#00102,Exeggcute,102.png,"Grass, Psychic",Chlorophyll Harvest,60,40,80,60,45,40
+#00103,Exeggutor,103.png,"Grass, Psychic",Chlorophyll Harvest,95,95,85,125,75,55
+#00104,Cubone,104.png,Ground,Rock Head Lightning Rod Battle Armor,50,50,95,40,50,35
+#00105,Marowak,105.png,Ground,Rock Head Lightning Rod Battle Armor,60,80,110,50,80,45
+#00106,Hitmonlee,106.png,Fighting,Limber Reckless Unburden,50,120,53,35,110,87
+#00107,Hitmonchan,107.png,Fighting,Keen Eye Iron Fist Inner Focus,50,105,79,35,110,76
+#00108,Lickitung,108.png,Normal,Own Tempo Oblivious Cloud Nine,90,55,75,60,75,30
+#00109,Koffing,109.png,Poison,Levitate Neutralizing Gas Stench,40,65,95,60,45,35
+#00110,Weezing,110.png,Poison,Levitate Neutralizing Gas Stench,65,90,120,85,70,60
+#00111,Rhyhorn,111.png,"Ground, Rock",Lightning Rod Rock Head Reckless,80,85,95,30,30,25
+#00112,Rhydon,112.png,"Ground, Rock",Lightning Rod Rock Head Reckless,105,130,120,45,45,40
+#00113,Chansey,113.png,Normal,Natural Cure Serene Grace Healer,250,5,5,35,105,50
+#00114,Tangela,114.png,Grass,Chlorophyll Leaf Guard Regenerator,65,55,115,100,40,60
+#00115,Kangaskhan,115.png,Normal,Early Bird Scrappy Inner Focus,105,95,80,40,80,90
+#00116,Horsea,116.png,Water,Swift Swim Sniper Damp,30,40,70,70,25,60
+#00117,Seadra,117.png,Water,Poison Point Sniper Damp,55,65,95,95,45,85
+#00118,Goldeen,118.png,Water,Swift Swim Water Veil Lightning Rod,45,67,60,35,50,63
+#00119,Seaking,119.png,Water,Swift Swim Water Veil Lightning Rod,80,92,65,65,80,68
+#00120,Staryu,120.png,Water,Illuminate Natural Cure Analytic,30,45,55,70,55,85
+#00121,Starmie,121.png,"Water, Psychic",Illuminate Natural Cure Analytic,60,75,85,100,85,115
+#00122,Mr. Mime,122.png,"Psychic, Fairy",Soundproof Filter Technician,40,45,65,100,120,90
+#00123,Scyther,123.png,"Bug, Flying",Swarm Technician Steadfast,70,110,80,55,80,105
+#00124,Jynx,124.png,"Ice, Psychic",Oblivious Forewarn Dry Skin,65,50,35,115,95,95
+#00125,Electabuzz,125.png,Electric,Static Vital Spirit,65,83,57,95,85,105
+#00126,Magmar,126.png,Fire,Flame Body Vital Spirit,65,95,57,100,85,93
+#00127,Pinsir,127.png,Bug,Hyper Cutter Mold Breaker Moxie,65,125,100,55,70,85
+#00128,Tauros,128.png,Normal,Intimidate Anger Point Sheer Force,75,100,95,40,70,110
+#00129,Magikarp,129.png,Water,Swift Swim Rattled,20,10,55,15,20,80
+#00130,Gyarados,130.png,"Water, Flying",Intimidate Moxie,95,125,79,60,100,81
+#00131,Lapras,131.png,"Water, Ice",Water Absorb Shell Armor Hydration,130,85,80,85,95,60
+#00132,Ditto,132.png,Normal,Limber Imposter,48,48,48,48,48,48
+#00133,Eevee,133.png,Normal,Run Away Adaptability Anticipation,55,55,50,45,65,55
+#00134,Vaporeon,134.png,Water,Water Absorb Hydration,130,65,60,110,95,65
+#00135,Jolteon,135.png,Electric,Volt Absorb Quick Feet,65,65,60,110,95,130
+#00136,Flareon,136.png,Fire,Flash Fire Guts,65,130,60,95,110,65
+#00137,Porygon,137.png,Normal,Trace Download Analytic,65,60,70,85,75,40
+#00138,Omanyte,138.png,"Rock, Water",Swift Swim Shell Armor Weak Armor,35,40,100,90,55,35
+#00139,Omastar,139.png,"Rock, Water",Swift Swim Shell Armor Weak Armor,70,60,125,115,70,55
+#00140,Kabuto,140.png,"Rock, Water",Swift Swim Battle Armor Weak Armor,30,80,90,55,45,55
+#00141,Kabutops,141.png,"Rock, Water",Swift Swim Battle Armor Weak Armor,60,115,105,65,70,80
+#00142,Aerodactyl,142.png,"Rock, Flying",Rock Head Pressure Unnerve,80,105,65,60,75,130
+#00143,Snorlax,143.png,Normal,Immunity Thick Fat Gluttony,160,110,65,65,110,30
+#00144,Articuno,144.png,"Ice, Flying",Pressure Snow Cloak,90,85,100,95,125,85
+#00145,Zapdos,145.png,"Electric, Flying",Pressure Static,90,90,85,125,90,100
+#00146,Moltres,146.png,"Fire, Flying",Pressure Flame Body,90,100,90,125,85,90
+#00147,Dratini,147.png,Dragon,Shed Skin Marvel Scale,41,64,45,50,50,50
+#00148,Dragonair,148.png,Dragon,Shed Skin Marvel Scale,61,84,65,70,70,70
+#00149,Dragonite,149.png,"Dragon, Flying",Inner Focus Multiscale,91,134,95,100,100,80
+#00150,Mewtwo,150.png,Psychic,Pressure Unnerve,106,110,90,154,90,130
+#00151,Mew,151.png,Psychic,Synchronize,100,100,100,100,100,100
