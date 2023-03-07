@@ -11,3 +11,9 @@ st.set_page_config(
 	layout="wide",
 )
 ...
+
+# # Description Column
+# desc_columns = list(gen_df1.keys()[:5])
+#
+# # Stats Column
+# stat_columns = list(gen_df1.keys()[5:])

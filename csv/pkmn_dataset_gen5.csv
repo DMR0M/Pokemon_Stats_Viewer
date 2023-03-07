@@ -150,8 +150,8 @@ Pokedex_Number,Name,Image,Type,Ability,Hp,Attack,Defense,Sp. Attack,Sp. Defense,
 #00642,Thundurus,149.png,"Electric, Flying",Prankster Defiant,79,115,70,125,80,111
 #00643,Reshiram,150.png,"Dragon, Fire",Turboblaze,100,120,100,150,120,90
 #00644,Zekrom,151.png,"Dragon, Electric",Teravolt,100,150,120,120,100,90
-#00645,Landorus,906.png,"Ground, Flying",Sand Force Sheer Force,89,125,90,115,80,101
-#00646,Kyurem,907.png,"Dragon, Ice",Pressure,125,130,90,130,90,95
-#00647,Keldeo,908.png,"Water, Fighting",Justified,91,72,90,129,90,108
-#00648,Meloetta,909.png,"Normal, Psychic",Serene Grace,100,77,77,128,128,90
-#00649,Genesect,910.png,"Bug, Steel",Download,71,120,95,120,95,99
+#00645,Landorus,152.png,"Ground, Flying",Sand Force Sheer Force,89,125,90,115,80,101
+#00646,Kyurem,153.png,"Dragon, Ice",Pressure,125,130,90,130,90,95
+#00647,Keldeo,154.png,"Water, Fighting",Justified,91,72,90,129,90,108
+#00648,Meloetta,155.png,"Normal, Psychic",Serene Grace,100,77,77,128,128,90
+#00649,Genesect,156.png,"Bug, Steel",Download,71,120,95,120,95,99

@@ -26,5 +26,5 @@ for i, csv in enumerate(pkmn_data_sets):
 	st.subheader(gen_list_headers[i])
 
 	pkmn_dataframe = pd.read_csv(csv)
-	st.dataframe(pkmn_dataframe)
+	st.table(pkmn_dataframe)
 
